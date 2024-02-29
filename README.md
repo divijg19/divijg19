@@ -1,6 +1,6 @@
 # Divij Ganjoo
 Profile Description
-# Hi there, I'm Divij Ganjoo 👋
+## Hi there, I'm Divij Ganjoo 👋
 
 Welcome to my GitHub profile! I'm passionate about [Software Development to build and integrate solutions to programmable problems by marketing products and services] and love to create amazing things with code. Currently, I'm focused on [Automation with Python and following the path to become a full-stack developer].
 
