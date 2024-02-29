@@ -1,8 +1,7 @@
-# Divij Ganjoo
-Profile Description
-## Hi there, I'm Divij Ganjoo 👋
+  #                                                                                        Divij Ganjoo
+## Hi there, I'm Divij 👋
 
-Welcome to my GitHub profile! I'm passionate about [Software Development to build and integrate solutions to programmable problems by marketing products and services] and love to create amazing things with code. Currently, I'm focused on [Automation with Python and following the path to become a full-stack developer].
+### Welcome to my GitHub profile! I'm passionate about [Software Development to build and integrate solutions to programmable problems by marketing products and services] and love to create amazing things with code. Currently, I'm focused on [Automation with Python and following the path to become a full-stack developer].
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark)](https://github.com/divijg19/github-profile-trophy)
 
