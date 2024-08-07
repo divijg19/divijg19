@@ -21,12 +21,12 @@
 
 ## 🌱 Currently Learning
 
-- Automation using Python
-- Web Development
+- Data Structures & Algorithms
+- Responsive Web Design
 
 ## 💼 Work Experience
 
-- Currently applying
+- Interested but not actively applying yet.
 
 ## 🌟 Featured Projects [Work In Progress, yet to be updated]
 
