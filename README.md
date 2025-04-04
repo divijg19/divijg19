@@ -30,12 +30,23 @@ Currently, I'm honing my expertise in Python automation, full-stack development,
 
 ## 🌱 Currently Learning
 
-- Advanced Data Structures & Algorithms
+- Advanced Data Structures & Algorithms (in Python and eventually Golang)
 - Full-Stack Development (MERN Stack)
+- REST/FAST API
+- Lua (Game Dev goals)
 - Discrete Mathematics for Computing
 - Responsive Web Design
 
 ---
+
+## ⚡ Eventual Goals
+
+- Rust (for robust development tools)
+- R (for AI and Deep Learning projects)
+- Ruby on Rails (for elegant and standard programming)
+- Golang (for simplicity and efficiency in back-end projects)
+- YAML
+- DevOps and CICD
 
 ## 💼 Work Experience
 
