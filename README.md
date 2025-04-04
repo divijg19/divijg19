@@ -48,6 +48,8 @@ Currently, I'm honing my expertise in Python automation, full-stack development,
 - YAML
 - DevOps and CICD
 
+---
+
 ## 💼 Work Experience
 
 ### Data Structures and Algorithms Intern - TechBairn
