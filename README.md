@@ -43,7 +43,7 @@ I specialize in:
 - 🧠 **Data Structures & Algorithms**
 - 💡 **Creative Problem Solving + Storytelling through Tech**
 
-> My north star? Merging code, creativity, and leadership to engineer systems, brands, and ideas that outlast trends and transform lives.
+> Merging code, creativity, and leadership to engineer systems, brands, and ideas that transform lives.
 
 ---
 
