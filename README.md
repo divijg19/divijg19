@@ -142,7 +142,7 @@ I specialize in:
 
 📧 **Email**: [divijganjoo2003@gmail.com](mailto:divijganjoo2003@gmail.com)  
 📸 **Instagram**: [@one_excellent_hope](https://www.instagram.com/one_excellent_hope/)  
-🌐 **Portfolio**: [divijg19.dev (WIP)](https://sites.google.com/view/divij-ganjoo/home)  
+🌐 **Portfolio**: [Divij Ganjoo](https://divijganjoo.me)  
 💼 **LinkedIn**: [Divij Ganjoo](https://www.linkedin.com/in/divij-ganjoo/)
 
 ---
