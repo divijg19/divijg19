@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Divij Ganjoo</h1>
 
-<h3 align="center">🚀 Aspiring Solutions Architect • Full-Stack Developer • Creative Strategist • Builder of Stories & Systems</h3>
+<h3 align="center">🚀 Certified Solutions Architect • Full-Stack Developer • Creative Strategist • Systems & Stories Builder</h3>
 
 <p align="center">
   <a href="https://github.com/divijg19">
