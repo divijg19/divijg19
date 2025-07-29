@@ -144,15 +144,22 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
   <a href="mailto:divijganjoo2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <p>[Divij Ganjoo](mailto:divijganjoo2003@gmail.com)</p>
+  <br>
   <a href="https://www.linkedin.com/in/divij-ganjoo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <p>>[Divij Ganjoo](https://www.linkedin.com/divij-ganjoo</p>
+  <br>
   <a href="https://divijganjoo.me">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <p>[Divij Ganjoo](https://divijganjoo.me)</p>
+  <br>
   <a href="https://www.instagram.com/one_excellent_hope/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <p>[@one_excellent_hope](https://www.instagram.com/one_excellent_hope)</p>
 </p>
 
 ---
