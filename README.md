@@ -25,9 +25,9 @@
 ### 📊 Visual GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijg19&theme=dark" alt="GitHub Streak" />
   <br/>
@@ -40,8 +40,8 @@
 
 I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: a deep understanding of **systems architecture** and a passion for **creative storytelling**.
 
-- 🔭 **I’m currently focusing on:** Advanced Serverless Architectures, DevOps workflows, and exploring the nuances of Go and Rust.
-- 🌱 **My Goal:** To lead projects that build transformative systems and brands from the ground up.
+- 🔭 **Career Focus:** Advanced Serverless Architectures, DevOps workflows, and exploring the nuances of Go and Rust.
+- 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 
 ---
 
@@ -92,8 +92,10 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
-<p>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</p>
-<p><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</p>
+<ul>
+<li>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
+<li><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</li>
+</ul>
 
 <br/>
 
@@ -101,8 +103,10 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 <a href="https://github.com/divijg19/project-automation-toolkit">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
-<p>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</p>
-<p><strong>Tech Used:</strong> Python, Pandas, various APIs</p>
+<ul>
+<li>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</li>
+<li><strong>Tech Used:</strong> Python, Pandas, various APIs</li>
+</ul>
 
 ---
 
