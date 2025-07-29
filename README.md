@@ -26,8 +26,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijg19&theme=dark" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
@@ -44,6 +47,17 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 ### 🧰 Tech Stack & Tools
 
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
+
 #### ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -55,8 +69,6 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 #### ⚙️ Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -67,8 +79,6 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 #### 🌐 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -78,25 +88,21 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 ### 🛠️ Featured Projects
 
-<div align="center">
-  <h3>🎨 Séra Koche – Clothing Line</h3>
-  <a href="https://github.com/divijg19/project-sera-koche">
-    <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
-  </a>
-  <p>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</p>
-  <p><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</p>
-</div>
+### 🎨 Séra Koche – Clothing Line
+<a href="https://github.com/divijg19/project-sera-koche">
+  <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
+</a>
+<p>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</p>
+<p><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</p>
 
 <br/>
 
-<div align="center">
-  <h3>🤖 Python Automation Toolkit</h3>
-  <a href="https://github.com/divijg19/project-automation-toolkit">
-    <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
-  </a>
-  <p>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</p>
-  <p><strong>Tech Used:</strong> Python, Pandas, various APIs</p>
-</div>
+### 🤖 Python Automation Toolkit
+<a href="https://github.com/divijg19/project-automation-toolkit">
+  <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
+</a>
+<p>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</p>
+<p><strong>Tech Used:</strong> Python, Pandas, various APIs</p>
 
 ---
 
