@@ -131,10 +131,10 @@ I specialize in:
 ## 🧠 Fun Facts & Personal Passions
 
 - ♟️ Former competitive chess player; strategic thinker at heart.
-- 🥊 Kickboxing enthusiast — disciplined, focused, and impact-driven.
-- ✍️ Writer & poet — 1 publication, 5 novels in progress.
-- 💬 Strong communicator and team builder.
-- 🌍 Dreaming big: building scalable businesses, systems, and stories with purpose.
+- 🥊 Kickboxing enthusiast — disciplined, focused, and impact-driven with the aim to encompass other skills in the same way.
+- ✍️ Writer & poet — 1 publication, 5 others underway.
+- 💬 Effective cross-communication management and community builder, with belief in systems being the sum vector of rightly placed talent and efforts.
+- 🌍 Dreaming big: building scalable businesses, systems, and stories with deliberate enthusiasm.
 
 ---
 
