@@ -24,18 +24,12 @@
 
 ### 📊 Visual GitHub Insights
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijg19&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
@@ -50,95 +44,75 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 ### 🧰 Tech Stack & Tools
 
-<details>
-  <summary><strong>☁️ Cloud & DevOps</strong></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </p>
-</details>
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-<details>
-  <summary><strong>⚙️ Backend & Databases</strong></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  </p>
-</details>
+#### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-<details>
-  <summary><strong>🌐 Frontend Development</strong></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  </p>
-</details>
+#### 🌐 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 ---
 
 ### 🛠️ Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Séra Koche – Clothing Line</h3>
-      <br />
-      <a href="https://github.com/divijg19/project-sera-koche">
-        <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
-      </a>
-      <br />
-      <p>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</p>
-      <p><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Python Automation Toolkit</h3>
-      <br />
-      <a href="https://github.com/divijg19/project-automation-toolkit">
-        <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
-      </a>
-      <br />
-      <p>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</p>
-      <p><strong>Tech Used:</strong> Python, Pandas, various APIs</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>🎨 Séra Koche – Clothing Line</h3>
+  <a href="https://github.com/divijg19/project-sera-koche">
+    <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
+  </a>
+  <p>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</p>
+  <p><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🤖 Python Automation Toolkit</h3>
+  <a href="https://github.com/divijg19/project-automation-toolkit">
+    <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
+  </a>
+  <p>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</p>
+  <p><strong>Tech Used:</strong> Python, Pandas, various APIs</p>
+</div>
 
 ---
 
 ### 💼 Experience Snapshot
 
-<details>
-  <summary><strong>📊 Business Analyst @ Fincrux Technologies</strong> (Jun 2024 – Jul 2024)</summary>
-  <br/>
-  <ul>
-    <li>Delivered data-driven analytical reports aligned with core fintech strategy.</li>
-    <li>Translated complex datasets into actionable insights, improving business outcomes through clear data storytelling.</li>
-  </ul>
-</details>
+#### 📊 Business Analyst @ Fincrux Technologies (Jun 2024 – Jul 2024)
+<ul>
+  <li>Delivered data-driven analytical reports aligned with core fintech strategy.</li>
+  <li>Translated complex datasets into actionable insights, improving business outcomes through clear data storytelling.</li>
+</ul>
 
-<details>
-  <summary><strong>💡 DSA Intern @ TechBairn</strong> (Jan 2024 – May 2024)</summary>
-  <br/>
-  <ul>
-    <li>Solved complex algorithmic challenges with a focus on optimizing for time and space efficiency.</li>
-    <li>Collaborated in peer-led coding sprints, enhancing problem-solving skills in a team environment.</li>
-  </ul>
-</details>
+#### 💡 DSA Intern @ TechBairn (Jan 2024 – May 2024)
+<ul>
+  <li>Solved complex algorithmic challenges with a focus on optimizing for time and space efficiency.</li>
+  <li>Collaborated in peer-led coding sprints, enhancing problem-solving skills in a team environment.</li>
+</ul>
 
 ---
 
