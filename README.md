@@ -140,7 +140,7 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 ### 💬 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:divijganjoo2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
