@@ -27,13 +27,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-
   <img src="https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijg19&theme=dark" alt="GitHub Streak" />
   <br/>
-
   <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
@@ -140,27 +137,48 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 ### 💬 Let’s Connect
 
-<p align="left">
-  <a href="mailto:divijganjoo2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  [Divij Ganjoo](mailto:divijganjoo2003@gmail.com)
-  <br>
-  <a href="https://www.linkedin.com/in/divij-ganjoo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  [Divij Ganjoo](https://www.linkedin.com/divij-ganjoo)
-  <br>
-  <a href="https://divijganjoo.me">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  [Divij Ganjoo](https://divijganjoo.me)
-  <br>
-  <a href="https://www.instagram.com/one_excellent_hope/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  [@one_excellent_hope](https://www.instagram.com/one_excellent_hope)
-
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/divij-ganjoo/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/divij-ganjoo/" target="_blank">Divij Ganjoo</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="mailto:divijganjoo2003@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="mailto:divijganjoo2003@gmail.com" target="_blank">divijganjoo2003@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://divijganjoo.me" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://divijganjoo.me" target="_blank">divijganjoo.me</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.instagram.com/one_excellent_hope/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.instagram.com/one_excellent_hope/" target="_blank">@one_excellent_hope</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
