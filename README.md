@@ -29,9 +29,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijg19&theme=dark&123" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijg19&theme=dark" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&no-frame=true&123" alt="GitHub Trophies" />
 </div>
 
 ---
