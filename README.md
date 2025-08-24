@@ -25,7 +25,7 @@
 ### 📊 Visual GitHub Insights
 
 <div align="center">
-  <img src="https://zinnia-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://zinnia-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=codeSTACKr" alt="Top Languages" />
   <br/>
   <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=codeSTACKr" alt="GitHub Stats" />
   <br/>
