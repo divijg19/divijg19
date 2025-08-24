@@ -29,7 +29,7 @@
   <br/>
   <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://amaryllis-sigma.vercel.app/?user=divijg19&theme=dark" alt="GitHub Streak" />
+  [![GitHub Streak](https://amaryllis-sigma.vercel.app?user=divijg19&theme=dark&hide_border=true&background=45%2CEB0000%2C2C66EB)](https://git.io/streak-stats)
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&margin-h=15&exclude=Followers&row=3&column=3" alt="GitHub Trophies" />
 </div>
