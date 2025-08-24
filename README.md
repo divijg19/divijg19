@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://zinnia-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=codeSTACKr" alt="GitHub Stats" />
   <br/>
   <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=dark&hide_border=true&background=45%2CEB0000%2C2C66EB" alt="Github Streak">
   <br/>
