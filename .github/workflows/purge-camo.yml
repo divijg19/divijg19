@@ -1,0 +1,13 @@
+name: Purge Camo Cache
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge GitHub Camo Cache
+        uses: kevincobain2000/action-camo-purge@v1
