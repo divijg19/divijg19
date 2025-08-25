@@ -31,7 +31,7 @@
   <br/>
   <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=dark&hide_border=true&background=45%2CEB0000%2C2C66EB" alt="Github Streak">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&margin-h=15&exclude=Followers&row=3&column=3&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://trophygh.kolioaris.xyz/?username=divijg19&theme=onedark&margin-w=15&margin-h=15&exclude=Followers&row=3&column=3&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
