@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://trophygh.kolioaris.xyz/?username=divijg19&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   <img src="https://zinnia-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width = 350 height = 200 alt="Top Languages" />
-  <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" alt="GitHub Stats" />
+  <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height = 200 alt="GitHub Stats" />
   </br>
   <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak">
 </div>
