@@ -3,7 +3,7 @@
   Hi, I'm Divij Ganjoo
 </h1>
 
-<h3 align="center">I build scalable systems and compelling stories, merging cloud architecture with creative strategy.</h3>
+<h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
 <p align="center">
   <a href="https://github.com/divijg19">
@@ -93,7 +93,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 ### ⚜️ Lys - Personal Portfolio
 <a href="htttps://divijganjoo.me">
 <ul>
-<li>A Personal Portfolio crafted with immense love and labor</li>
+<li>A Personal Portfolio crafted with immense love and labor.</li>
 <li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
 </ul>
 
