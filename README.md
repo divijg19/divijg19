@@ -90,16 +90,25 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 ### 🛠️ Featured Projects
 
-### 🎨 Séra Koche – Clothing Line
+### ⚜️ Lys - Personal Portfolio
+<a href="htttps://divijganjoo.me">
+<ul>
+<li>A Personal Portfolio crafted with immense love and labor</li>
+<li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
+</ul>
+
+</br>
+
+### 🎨 Séra Koche (A Work In Progress)
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
 <ul>
-<li>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
-<li><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</li>
+<li>A fashion brand concept built at the intersection of community, sophistication, design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
+<li><strong>Tech Used:</strong> Go, Typescript, React, Python, various APIs</li>
 </ul>
 
-<br/>
+</br>
 
 ### 🤖 Python Automation Toolkit
 <a href="https://github.com/divijg19/project-automation-toolkit">
@@ -107,7 +116,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </a>
 <ul>
 <li>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</li>
-<li><strong>Tech Used:</strong> Python, Pandas, various APIs</li>
+<li><strong>Tech Used:</strong> Python, Pandas, various APIs. Soon to be updated with Mojo</li>
 </ul>
 
 ---
