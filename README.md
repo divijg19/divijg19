@@ -36,9 +36,10 @@
 
 ### 🧠 Who I Am
 
-I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: a deep understanding of **systems architecture** and a passion for **creative storytelling**.
+I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
-- 🔭 **Career Focus:** Advanced Serverless Architectures, DevOps workflows, and exploring the nuances of Go and Rust.
+- 🔭 **Career Focus:** Looking for Backend, AIML, AI Systems Engineer roles. Cloud-Native and Advanced Serverless Architectures, DevOps workflows using Python, Go and Mojo.
+- 🎉 **Passions** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer. Strong interest in making games and systems programming using Rust, Lua and C++ w/ FFI
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 
 ---
