@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/divijg19">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Aspiring+SDE+using+Go,+Python+&+Mojo;AWS+Certified+Solutions+Architect;Full-Stack+Developer+and+Builder;AI+Advocate+and+Cybersecurity+Savvy;Open-Source+Contributor+and+Believer;Creative+Problem+Solving+Strategist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Aspiring+SDE+using+Go,+Python,+Mojo;AWS+Certified+Solutions+Architect;Full-Stack+Developer+and+Builder;AI+Advocate+and+Cybersecurity+Savvy;Open-Source+Contributor+and+Believer;Creative+Problem+Solving+Strategist" alt="Typing SVG" />
   </a>
 </p>
 
