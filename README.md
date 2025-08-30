@@ -5,7 +5,7 @@
 
 <h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="left">
       <!-- PROFILE STATS -->
