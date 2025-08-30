@@ -34,7 +34,7 @@
 
 ---
 <details open>
-<summary>### 🧠 Who I Am</summary>
+### <summary>🧠 Who I Am</summary>
 <br>
 
 I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
