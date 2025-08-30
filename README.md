@@ -106,8 +106,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <summary><h2> 🛠️ Featured Projects</h2></summary>
 <br>
 
-<details>
-<summary><h3> ⚜️ Lys - Personal Portfolio</h3></summary>
+<details open>
+<summary><h4> ⚜️ Lys - Personal Portfolio</h4></summary>
 <br>
 <a href="htttps://divijganjoo.me">
 <ul>
@@ -118,8 +118,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </br>
 
-<details>
-<summary><h3> 🎨 Séra Koche (A Work In Progress)</h3></summary>
+<details open>
+<summary><h4> 🎨 Séra Koche (A Work In Progress)</h4></summary>
 <br>
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
@@ -132,8 +132,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </br>
 
-<details>
-<summary><h3> 🤖 Python Automation Toolkit</h3></summary>
+<details open>
+<summary><h4> 🤖 Python Automation Toolkit</h4></summary>
 <br>
 <a href="https://github.com/divijg19/project-automation-toolkit">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
