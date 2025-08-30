@@ -5,42 +5,37 @@
 
 <h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
-<p align="center">
-  <a href="https://github.com/divijg19">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Aspiring+SDE+in+Go,+Python+and+Mojo;AWS+Certified+Solutions+Architect;Full-Stack+Developer+and+Builder;AI+Advocate+and+Cybersecurity+Savvy;Open-Source+Contributor;Creative+Problem-Solver" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
 <table>
   <tr>
-    <td align="left">
+    <td align="left" valign="middle">
       <a href="https://github.com/divijg19">
         <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
       </a>
       <a href="https://github.com/divijg19?tab=followers">
-        <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
+        <img src="https://img.shields.io/github/followers/divijig19?label=Followers&style=flat-square" alt="GitHub Followers" />
       </a>
     </td>
-    <td align="center">
-      <!-- DYNAMIC: Fetches the latest release from the official Go repository -->
+    <td align="center" valign="middle">
+      <!-- DYNAMIC: Fetches the latest Go release. -->
       <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/release/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
       
-      <!-- STATIC: Manually update the version number for new Python releases -->
-      <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.14-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
+      <!-- STATIC: Manually update for new Python releases. -->
+      <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
       
-      <!-- STATIC: Manually update the version number for new Mojo releases -->
+      <!-- STATIC: Manually update for new Mojo releases. -->
       <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
       
-      <!-- DYNAMIC: Fetches the latest release from the official Rust repository -->
+      <!-- DYNAMIC: Fetches the latest Rust release. -->
       <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
       
-      <!-- DYNAMIC: Fetches the latest version from the TypeScript npm package -->
+      <!-- DYNAMIC: Fetches the latest TypeScript version from npm. -->
       <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
     </td>
   </tr>
 </table>
 </div>
+
 ---
 
 ### 📊 Visual GitHub Insights
