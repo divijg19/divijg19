@@ -170,6 +170,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 <details open>
 <summary><h2> 💬 Let’s Connect</h2></summary>
+<br>
 
 <table>
   <tr>
@@ -213,6 +214,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
     </td>
   </tr>
 </table>
+</details>
 
 ---
 
