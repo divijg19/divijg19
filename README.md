@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/divijg19">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=AWS+Certified+Solutions+Architect;Full-Stack+Developer;Creative+Problem-Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Aspiring+SDE+in+Go,+Python+and+Mojo;AWS+Certified+Solutions+Architect;Full-Stack+Developer+and+Builder;AI+Advocate+and+Cybersecurity+Savvy;Open-Source+Contributor;Creative+Problem-Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,17 +34,22 @@
 
 ---
 
-### 🧠 Who I Am
+<br>
+<details open>
+<summary><h2> 🧠 Who I Am</h2></summary>
+<br>
 
 I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
 - 🔭 **Career Focus:** Looking for Backend, AIML, AI Systems Engineer roles. Cloud-Native and Advanced Serverless Architectures, DevOps workflows using Python, Go and Mojo.
 - 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer. Strong interest in Game Development and making personal projects in systems programming using Rust, Lua and C++ w/ FFI
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
+</details>
+<br>
 
----
+<details open>
+<summary><h2> 🧰 Tech Stack & Tools</h2></summary>
 
-### 🧰 Tech Stack & Tools
 
 #### 💻 Languages
 <p>
@@ -84,22 +89,29 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+</details>
+<br>
 
----
 
+<details>
+<summary><h2> 🛠️ Featured Projects</h2></summary>
+<br>
 
-### 🛠️ Featured Projects
-
-### ⚜️ Lys - Personal Portfolio
+<details open>
+<summary><h3> ⚜️ Lys - Personal Portfolio</h3></summary>
+<br>
 <a href="htttps://divijganjoo.me">
 <ul>
 <li>A Personal Portfolio crafted with immense love and labor.</li>
 <li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
 </ul>
+</details>
 
 </br>
 
-### 🎨 Séra Koche (A Work In Progress)
+<details open>
+<summary><h3> 🎨 Séra Koche (A Work In Progress)</h3></summary>
+<br>
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
@@ -107,10 +119,13 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <li>A fashion brand concept built at the intersection of community, sophistication, design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
 <li><strong>Tech Used:</strong> Go, Typescript, React, Python, various APIs</li>
 </ul>
+</details>
 
 </br>
 
-### 🤖 Python Automation Toolkit
+<details open>
+<summary><h3> 🤖 Python Automation Toolkit</h3></summary>
+<br>
 <a href="https://github.com/divijg19/project-automation-toolkit">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
@@ -118,10 +133,16 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <li>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</li>
 <li><strong>Tech Used:</strong> Python, Pandas, various APIs. Soon to be updated with Mojo</li>
 </ul>
+</details>
+
+</details>
+<br>
 
 ---
 
-### 💼 Experience Snapshot
+<details>
+<summary><h2> 💼 Experience Snapshot</h2></summary>
+<br>
 
 #### 📊 Business Analyst @ Fincrux Technologies (Jun 2024 – Jul 2024)
 <ul>
@@ -135,9 +156,10 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <li>Collaborated in peer-led coding sprints, enhancing problem-solving skills in a team environment.</li>
 </ul>
 
----
+</details>
+<br>
 
-### 🧠 Fun Facts & Personal Passions
+<h2> 🧠 Fun Facts & Personal Passions</h2>
 
 -   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
 -   🥊 **Disciplined Driver:** Kickboxing enthusiast—focused, disciplined, and impact-driven.
@@ -146,7 +168,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 ---
 
-### 💬 Let’s Connect
+<details open>
+<summary><h2> 💬 Let’s Connect</h2></summary>
+
 
 <table>
   <tr>
@@ -190,6 +214,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
     </td>
   </tr>
 </table>
+</details>
 
 ---
 
