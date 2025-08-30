@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/divijg19">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Go+&+Rust+Enthusiast;AWS+Certified+Solutions+Architect;Full-Stack+Developer;AI+Advocate;Open-Source+Contributor;Creative+Problem-Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=AWS+Certified+Solutions+Architect;Full-Stack+Developer;AI+Advocate;Open-Source+Contributor;Creative+Problem-Solver" alt="Typing SVG" />
   </a>
 </p>
 
