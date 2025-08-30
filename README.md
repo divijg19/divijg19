@@ -45,7 +45,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </details>
 ---
 
-### 🧰 Tech Stack & Tools
+<details>
+<summary><h3> 🧰 Tech Stack & Tools</h3></summary>
+<br>
 
 #### 💻 Languages
 <p>
@@ -85,11 +87,13 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
+</details>
 ---
 
 
-### 🛠️ Featured Projects
+<details>
+<summary><h3> 🛠️ Featured Projects</h3></summary>
+<br>
 
 ### ⚜️ Lys - Personal Portfolio
 <a href="htttps://divijganjoo.me">
@@ -119,7 +123,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <li>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</li>
 <li><strong>Tech Used:</strong> Python, Pandas, various APIs. Soon to be updated with Mojo</li>
 </ul>
-
+</details>
 ---
 
 ### 💼 Experience Snapshot
