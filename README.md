@@ -5,7 +5,7 @@
 
 <h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/divijg19">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Aspiring+SDE+using+Go,+Python,+Mojo;AWS+Certified+Solutions+Architect;Full-Stack+Developer+and+Builder;AI+Advocate+and+Cybersecurity+Savvy;Open-Source+Contributor+and+Believer;Creative+Problem+Solving+Strategist" alt="Typing SVG" />
   </a>
@@ -23,7 +23,7 @@
 </p>
 
 <!-- Line 2: Language Versions -->
-<p align="center">
+<p align="left">
   <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
   <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
