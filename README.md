@@ -11,14 +11,29 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/divijg19">
-    <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/divijg19?tab=followers">
-    <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a>
-</p>
+<div align="center">
+<table width="100%">
+  <tr valign="middle">
+    <td align="left">
+      <!-- Profile Stats -->
+      <a href="https://github.com/divijg19">
+        <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
+      </a>
+      <a href="https://github.com/divijg19?tab=followers">
+        <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
+      </a>
+    </td>
+    <td align="right">
+      <!-- Language Versions -->
+      <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
+      <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
+      <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
+      <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
+      <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -93,12 +108,12 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <br>
 
 
-<details>
+<details open>
 <summary><h2> 🛠️ Featured Projects</h2></summary>
 <br>
 
 <details open>
-<summary><h3> ⚜️ Lys - Personal Portfolio</h3></summary>
+<summary><h4> ⚜️ Lys - Personal Portfolio</h4></summary>
 <br>
 <a href="htttps://divijganjoo.me">
 <ul>
@@ -110,7 +125,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </br>
 
 <details open>
-<summary><h3> 🎨 Séra Koche (A Work In Progress)</h3></summary>
+<summary><h4> 🎨 Séra Koche (A Work In Progress)</h4></summary>
 <br>
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
@@ -124,7 +139,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </br>
 
 <details open>
-<summary><h3> 🤖 Python Automation Toolkit</h3></summary>
+<summary><h4> 🤖 Python Automation Toolkit</h4></summary>
 <br>
 <a href="https://github.com/divijg19/project-automation-toolkit">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
@@ -140,7 +155,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 ---
 
-<details>
+<details open>
 <summary><h2> 💼 Experience Snapshot</h2></summary>
 <br>
 
