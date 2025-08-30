@@ -102,11 +102,11 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <br>
 
 
-<details>
+<details open>
 <summary><h2> 🛠️ Featured Projects</h2></summary>
 <br>
 
-<details open>
+<details>
 <summary><h3> ⚜️ Lys - Personal Portfolio</h3></summary>
 <br>
 <a href="htttps://divijganjoo.me">
@@ -118,7 +118,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </br>
 
-<details open>
+<details>
 <summary><h3> 🎨 Séra Koche (A Work In Progress)</h3></summary>
 <br>
 <a href="https://github.com/divijg19/project-sera-koche">
@@ -132,7 +132,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </br>
 
-<details open>
+<details>
 <summary><h3> 🤖 Python Automation Toolkit</h3></summary>
 <br>
 <a href="https://github.com/divijg19/project-automation-toolkit">
@@ -149,7 +149,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 ---
 
-<details>
+<details open>
 <summary><h2> 💼 Experience Snapshot</h2></summary>
 <br>
 
