@@ -155,15 +155,13 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </details>
 <br>
 
-<details open>
-<summary><h2> 🧠 Fun Facts & Personal Passions</h2></summary>
-<br>
+#### 🧠 Fun Facts & Personal Passions
 -   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
 -   🥊 **Disciplined Driver:** Kickboxing enthusiast—focused, disciplined, and impact-driven.
 -   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
 -   💬 **Community Builder:** I believe great systems are the sum of rightly placed talent and collaborative effort.
-</details>
-<br>
+
+---
 
 <details open>
 <summary><h2> 💬 Let’s Connect</h2></summary>
