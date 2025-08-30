@@ -211,7 +211,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   </tr>
 </table>
 
-<br>
+---
 
 <p align="center">
   <i>"The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come." - Steve Jobs</i>
