@@ -3,7 +3,7 @@
   Hi, I'm Divij Ganjoo
 </h1>
 
-<h3 align="center">I build scalable systems and compelling stories, merging cloud architecture with creative strategy.</h3>
+<h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
 <p align="center">
   <a href="https://github.com/divijg19">
@@ -25,22 +25,21 @@
 ### 📊 Visual GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=divijg19&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divijg19&theme=dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=divijg19&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://trophygh.kolioaris.xyz/?username=divijg19&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://zinnia-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width = 355 height = 200 alt="Top Languages" />
+  <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height = 200 alt="GitHub Stats" />
+  </br>
+  <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak">
 </div>
 
 ---
 
 ### 🧠 Who I Am
 
-I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: a deep understanding of **systems architecture** and a passion for **creative storytelling**.
+I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
-- 🔭 **Career Focus:** Advanced Serverless Architectures, DevOps workflows, and exploring the nuances of Go and Rust.
+- 🔭 **Career Focus:** Looking for Backend, AIML, AI Systems Engineer roles. Cloud-Native and Advanced Serverless Architectures, DevOps workflows using Python, Go and Mojo.
+- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer. Strong interest in Game Development and making personal projects in systems programming using Rust, Lua and C++ w/ FFI
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 
 ---
@@ -51,6 +50,7 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -60,7 +60,7 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 #### ☁️ Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -70,8 +70,8 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 #### ⚙️ Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF100?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -82,22 +82,33 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
+
 ### 🛠️ Featured Projects
 
-### 🎨 Séra Koche – Clothing Line
+### ⚜️ Lys - Personal Portfolio
+<a href="htttps://divijganjoo.me">
+<ul>
+<li>A Personal Portfolio crafted with immense love and labor.</li>
+<li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
+</ul>
+
+</br>
+
+### 🎨 Séra Koche (A Work In Progress)
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
 <ul>
-<li>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
-<li><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</li>
+<li>A fashion brand concept built at the intersection of community, sophistication, design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
+<li><strong>Tech Used:</strong> Go, Typescript, React, Python, various APIs</li>
 </ul>
 
-<br/>
+</br>
 
 ### 🤖 Python Automation Toolkit
 <a href="https://github.com/divijg19/project-automation-toolkit">
@@ -105,7 +116,7 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 </a>
 <ul>
 <li>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</li>
-<li><strong>Tech Used:</strong> Python, Pandas, various APIs</li>
+<li><strong>Tech Used:</strong> Python, Pandas, various APIs. Soon to be updated with Mojo</li>
 </ul>
 
 ---
