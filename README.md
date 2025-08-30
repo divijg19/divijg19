@@ -7,8 +7,8 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="50%">
-      <!-- Profile Stats -->
+    <td align="left">
+      <!-- PROFILE STATS -->
       <a href="https://github.com/divijg19">
         <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
       </a>
@@ -16,8 +16,8 @@
         <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
       </a>
     </td>
-    <td align="center" width="50%">
-      <!-- Language Versions -->
+    <td align="right">
+      <!-- LANGUAGE VERSIONS -->
       <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
       <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
       <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
