@@ -23,16 +23,24 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/go-mod/go-version/golang/go?style=flat-square" alt="Go Version"/>
-      <img src="https://img.shields.io/pypi/pyversions/numpy?style=flat-square&logo=python" alt="Python Version"/>
-      <img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/>
-      <img src="https://img.shields.io/crates/v/tokio?style=flat-square&logo=rust" alt="Rust Crate Version"/>
-      <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/>
+      <!-- DYNAMIC: Fetches the latest release from the official Go repository -->
+      <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/release/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
+      
+      <!-- STATIC: Manually update the version number for new Python releases -->
+      <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.14-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
+      
+      <!-- STATIC: Manually update the version number for new Mojo releases -->
+      <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
+      
+      <!-- DYNAMIC: Fetches the latest release from the official Rust repository -->
+      <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
+      
+      <!-- DYNAMIC: Fetches the latest version from the TypeScript npm package -->
+      <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
     </td>
   </tr>
 </table>
 </div>
-
 ---
 
 ### 📊 Visual GitHub Insights
