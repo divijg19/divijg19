@@ -32,6 +32,8 @@
   <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak">
 </div>
 
+---
+
 <br>
 <details open>
 <summary><h2> 🧠 Who I Am</h2></summary>
