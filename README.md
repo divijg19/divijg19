@@ -32,9 +32,9 @@
   <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak">
 </div>
 
----
+<br>
 <details open>
-<summary><h3> 🧠 Who I Am</h3></summary>
+<summary><h2> 🧠 Who I Am</h2></summary>
 <br>
 
 I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
@@ -43,10 +43,10 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 - 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer. Strong interest in Game Development and making personal projects in systems programming using Rust, Lua and C++ w/ FFI
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 </details>
----
+<br>
 
 <details open>
-<summary><h3> 🧰 Tech Stack & Tools</h3></summary>
+<summary><h2> 🧰 Tech Stack & Tools</h2></summary>
 <br>
 
 #### 💻 Languages
@@ -88,15 +88,15 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 </details>
----
+<br>
 
 
 <details>
-<summary><h3> 🛠️ Featured Projects</h3></summary>
+<summary><h2> 🛠️ Featured Projects</h2></summary>
 <br>
 
 <details open>
-<summary><h2> ⚜️ Lys - Personal Portfolio</h2></summary>
+<summary><h3> ⚜️ Lys - Personal Portfolio</h3></summary>
 <br>
 <a href="htttps://divijganjoo.me">
 <ul>
@@ -108,7 +108,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </br>
 
 <details open>
-<summary><h2> 🎨 Séra Koche (A Work In Progress)</h2></summary>
+<summary><h3> 🎨 Séra Koche (A Work In Progress)</h3></summary>
 <br>
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
@@ -122,7 +122,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </br>
 
 <details open>
-<summary><h2> 🤖 Python Automation Toolkit</h2></summary>
+<summary><h3> 🤖 Python Automation Toolkit</h3></summary>
 <br>
 <a href="https://github.com/divijg19/project-automation-toolkit">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
@@ -134,10 +134,10 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </details>
 
 </details>
----
+<br>
 
 <details>
-<summary><h3> 💼 Experience Snapshot</h3></summary>
+<summary><h2> 💼 Experience Snapshot</h2></summary>
 <br>
 
 #### 📊 Business Analyst @ Fincrux Technologies (Jun 2024 – Jul 2024)
