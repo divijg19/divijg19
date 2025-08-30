@@ -3,7 +3,7 @@
   Hi, I'm Divij Ganjoo
 </h1>
 
-<h3 align="center">I build scalable systems and compelling stories, merging cloud architecture with creative strategy.</h3>
+<h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
 <p align="center">
   <a href="https://github.com/divijg19">
@@ -25,22 +25,21 @@
 ### 📊 Visual GitHub Insights
 
 <div align="center">
-  <img src="https://zinnia-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&hide_border=true&card_width=350&theme=watchdog" alt="Top Languages" />
-  </br>
-  <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" alt="GitHub Stats" />
+  <img src="https://trophygh.kolioaris.xyz/?username=divijg19&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://zinnia-stats.vercel.app/api/top-langs/?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width = 355 height = 200 alt="Top Languages" />
+  <img src="https://zinnia-stats.vercel.app/api?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height = 200 alt="GitHub Stats" />
   </br>
   <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak">
-  </br>
-  <img src="https://trophygh.kolioaris.xyz/?username=divijg19&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ### 🧠 Who I Am
 
-I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: a deep understanding of **systems architecture** and a passion for **creative storytelling**.
+I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
-- 🔭 **Career Focus:** Advanced Serverless Architectures, DevOps workflows, and exploring the nuances of Go and Rust.
+- 🔭 **Career Focus:** Looking for Backend, AIML, AI Systems Engineer roles. Cloud-Native and Advanced Serverless Architectures, DevOps workflows using Python, Go and Mojo.
+- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer. Strong interest in Game Development and making personal projects in systems programming using Rust, Lua and C++ w/ FFI
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 
 ---
@@ -91,16 +90,25 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 
 ### 🛠️ Featured Projects
 
-### 🎨 Séra Koche – Clothing Line
+### ⚜️ Lys - Personal Portfolio
+<a href="htttps://divijganjoo.me">
+<ul>
+<li>A Personal Portfolio crafted with immense love and labor.</li>
+<li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
+</ul>
+
+</br>
+
+### 🎨 Séra Koche (A Work In Progress)
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
 <ul>
-<li>A fashion brand concept built at the intersection of design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
-<li><strong>Tech Used:</strong> React, Node.js, Express, MongoDB</li>
+<li>A fashion brand concept built at the intersection of community, sophistication, design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
+<li><strong>Tech Used:</strong> Go, Typescript, React, Python, various APIs</li>
 </ul>
 
-<br/>
+</br>
 
 ### 🤖 Python Automation Toolkit
 <a href="https://github.com/divijg19/project-automation-toolkit">
@@ -108,7 +116,7 @@ I'm a **B.Tech Computer Science student at VIT Bhopal** with a relentless drive 
 </a>
 <ul>
 <li>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</li>
-<li><strong>Tech Used:</strong> Python, Pandas, various APIs</li>
+<li><strong>Tech Used:</strong> Python, Pandas, various APIs. Soon to be updated with Mojo</li>
 </ul>
 
 ---
