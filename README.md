@@ -17,7 +17,7 @@
   &nbsp;&nbsp;&nbsp; <!-- This adds a little space -->
 
   <!-- Language Versions -->
-  <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/release/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
+  <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
   <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
