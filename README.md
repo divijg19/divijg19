@@ -45,7 +45,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </details>
 ---
 
-<details>
+<details open>
 <summary><h3> 🧰 Tech Stack & Tools</h3></summary>
 <br>
 
@@ -95,16 +95,21 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <summary><h3> 🛠️ Featured Projects</h3></summary>
 <br>
 
-### ⚜️ Lys - Personal Portfolio
+<details open>
+<summary><h2> ⚜️ Lys - Personal Portfolio</h2></summary>
+<br>
 <a href="htttps://divijganjoo.me">
 <ul>
 <li>A Personal Portfolio crafted with immense love and labor.</li>
 <li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
 </ul>
+</details>
 
 </br>
 
-### 🎨 Séra Koche (A Work In Progress)
+<details open>
+<summary><h2> 🎨 Séra Koche (A Work In Progress)</h2></summary>
+<br>
 <a href="https://github.com/divijg19/project-sera-koche">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
@@ -112,10 +117,13 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <li>A fashion brand concept built at the intersection of community, sophistication, design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
 <li><strong>Tech Used:</strong> Go, Typescript, React, Python, various APIs</li>
 </ul>
+</details>
 
 </br>
 
-### 🤖 Python Automation Toolkit
+<details open>
+<summary><h2> 🤖 Python Automation Toolkit</h2></summary>
+<br>
 <a href="https://github.com/divijg19/project-automation-toolkit">
   <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
 </a>
@@ -124,9 +132,13 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <li><strong>Tech Used:</strong> Python, Pandas, various APIs. Soon to be updated with Mojo</li>
 </ul>
 </details>
+
+</details>
 ---
 
-### 💼 Experience Snapshot
+<details>
+<summary><h3> 💼 Experience Snapshot</h3></summary>
+<br>
 
 #### 📊 Business Analyst @ Fincrux Technologies (Jun 2024 – Jul 2024)
 <ul>
@@ -140,6 +152,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <li>Collaborated in peer-led coding sprints, enhancing problem-solving skills in a team environment.</li>
 </ul>
 
+</details>
 ---
 
 ### 🧠 Fun Facts & Personal Passions
