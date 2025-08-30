@@ -153,18 +153,20 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </ul>
 
 </details>
----
+<br>
 
-### 🧠 Fun Facts & Personal Passions
-
+<details open>
+<summary><h2> 🧠 Fun Facts & Personal Passions</h2></summary>
+<br>
 -   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
 -   🥊 **Disciplined Driver:** Kickboxing enthusiast—focused, disciplined, and impact-driven.
 -   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
 -   💬 **Community Builder:** I believe great systems are the sum of rightly placed talent and collaborative effort.
+</details>
+<br>
 
----
-
-### 💬 Let’s Connect
+<details open>
+<summary><h2> 💬 Let’s Connect</h2></summary>
 
 <table>
   <tr>
@@ -209,7 +211,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   </tr>
 </table>
 
----
+<br>
 
 <p align="center">
   <i>"The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come." - Steve Jobs</i>
