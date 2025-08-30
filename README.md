@@ -5,27 +5,24 @@
 
 <h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="left">
-      <!-- PROFILE STATS -->
-      <a href="https://github.com/divijg19">
-        <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
-      </a>
-      <a href="https://github.com/divijg19?tab=followers">
-        <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
-      </a>
-    </td>
-    <td align="right">
-      <!-- LANGUAGE VERSIONS -->
-      <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
-      <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
-      <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
-      <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
-      <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Group 1: Profile Stats -->
+  <a href="https://github.com/divijg19">
+    <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/divijg19?tab=followers">
+    <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
+  </a>
+
+  &nbsp;&nbsp;|&nbsp;&nbsp; <!-- This is the visible divider with spacing -->
+
+  <!-- Group 2: Language Versions -->
+  <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
+  <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
+  <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
+</p>
 
 ---
 
