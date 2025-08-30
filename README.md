@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/divijg19">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=AWS+Certified+Solutions+Architect;Full-Stack+Developer;Creative+Problem-Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Go+&+Rust+Enthusiast;AWS+Certified+Solutions+Architect;Full-Stack+Developer;AI+Advocate;Open-Source+Contributor;Creative+Problem-Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,15 +33,16 @@
 </div>
 
 ---
-
-### 🧠 Who I Am
+<details open>
+<summary>### 🧠 Who I Am</summary>
+<br>
 
 I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
 - 🔭 **Career Focus:** Looking for Backend, AIML, AI Systems Engineer roles. Cloud-Native and Advanced Serverless Architectures, DevOps workflows using Python, Go and Mojo.
 - 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer. Strong interest in Game Development and making personal projects in systems programming using Rust, Lua and C++ w/ FFI
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
-
+</details>
 ---
 
 ### 🧰 Tech Stack & Tools
