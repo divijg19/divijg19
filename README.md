@@ -50,6 +50,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <details open>
 <summary><h2> 🧰 Tech Stack & Tools</h2></summary>
 <br>
+
 #### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -136,7 +137,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </details>
 <br>
+
 ---
+
 <details>
 <summary><h2> 💼 Experience Snapshot</h2></summary>
 <br>
