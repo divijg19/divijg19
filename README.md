@@ -11,34 +11,27 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/divijg19">
-    <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/divijg19?tab=followers">
-    <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- This badge shows the latest version of Go by checking a specific repo's go.mod file. -->
-  <!-- NOTE: You MUST replace 'golang/go' with a specific repo you want to track, like your own project. -->
-  <!-- If you don't have a specific Go project to link, you should use a static badge like the one in the comments below. -->
-  <img src="https://img.shields.io/github/go-mod/go-version/golang/go?style=for-the-badge" alt="Go Version"/>
-  <!-- Static Go badge example: <img src="https://img.shields.io/badge/Go-1.2x-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> -->
-
-  <!-- This badge shows the Python version from a package on PyPI. Replace 'numpy' with any major package to track the latest supported Python version. -->
-  <img src="https://img.shields.io/pypi/pyversions/numpy?style=for-the-badge&logo=python" alt="Python Version"/>
-  
-  <!-- Mojo does not have a dynamic version badge yet, so this is a static one. Update the text as needed. -->
-  <img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=for-the-badge&logo=mojo&logoColor=white" alt="Mojo"/>
-  
-  <!-- This badge shows the latest version of the 'tokio' crate on crates.io. Replace 'tokio' with any other crate. -->
-  <img src="https://img.shields.io/crates/v/tokio?style=for-the-badge&logo=rust" alt="Rust Crate Version"/>
-  
-  <!-- This badge shows the latest version of TypeScript on npm. -->
-  <img src="https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript" alt="TypeScript Version"/>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/divijg19">
+        <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
+      </a>
+      <a href="https://github.com/divijg19?tab=followers">
+        <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/go-mod/go-version/golang/go?style=flat-square" alt="Go Version"/>
+      <img src="https://img.shields.io/pypi/pyversions/numpy?style=flat-square&logo=python" alt="Python Version"/>
+      <img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/>
+      <img src="https://img.shields.io/crates/v/tokio?style=flat-square&logo=rust" alt="Rust Crate Version"/>
+      <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
