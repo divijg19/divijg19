@@ -3,6 +3,8 @@
   Hi, I'm Divij Ganjoo
 </h1>
 
+<h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
+
 <div align="center">
 <table width="100%">
   <tr valign="middle">
@@ -26,8 +28,6 @@
   </tr>
 </table>
 </div>
-
-<h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
 
 <p align="center">
   <a href="https://github.com/divijg19">
