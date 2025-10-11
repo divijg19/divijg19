@@ -48,7 +48,7 @@
 
 ### 📊 Leetcode Stats:
 
-<div style="display: flex; align-items: center;" align="center">
+<div style="align-items: center;" align="center">
   <img src="https://leetcard.jacoblin.cool/divijg19?ext=heatmap" alt="Leetcode Stats" style="width: 50">
 </div>
 
