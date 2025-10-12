@@ -46,6 +46,14 @@
 
 ---
 
+### 📊 Leetcode Stats:
+
+<div style="display: flex; align-items: center;" align="center">
+  <img src="https://leetcard.jacoblin.cool/divijg19?ext=heatmap&ext=activity" alt="Leetcode Stats" style="width: 50">
+</div>
+
+---
+
 <br>
 <details open>
 <summary><h2> 🧠 Who I Am</h2></summary>
