@@ -44,8 +44,6 @@
   <img src="https://amaryllis-sigma.vercel.app?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak">
 </div>
 
----
-
 ### 📊 Leetcode Stats:
 
 <div style="display: flex; align-items: center;" align="center">
