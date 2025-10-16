@@ -47,7 +47,7 @@
 ### 📊 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/divijg19?ext=heatmap" alt="LeetCode Stats" style="width:50px;" />
+  <img src="https://leetcard.jacoblin.cool/divijg19?ext=heatmap" alt="LeetCode Stats" style="width:50;" />
 </div>
 
 ---
