@@ -117,7 +117,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <br>
 
 <details open>
-<summary><h4> [⚜️ Lys - Personal Portfolio](www.github.com/divijg19/Lys)</h4></summary>
+<summary><h4> ⚜️ Lys - Personal Portfolio</h4></summary>
 <br>
 <a href="htttps://divijganjoo.me">
 <ul>
