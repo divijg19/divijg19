@@ -59,7 +59,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 ### 📊 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/divijg19?ext=heatmap" alt="LeetCode Stats" style="width:50;" />
+  <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19?ext=heatmap" alt="LeetCode Stats" style="width:50;" />
 </div>
 
 ---
