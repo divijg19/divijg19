@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/banner.png" />
+</p>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
   Hi, I'm Divij Ganjoo
