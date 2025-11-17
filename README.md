@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" width="600" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Github%20Banner%20divijg19.png" alt="Banner" />
+  <img height="500" width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Github%20Banner%20divijg19.png" alt="Banner" />
 </p>
 
 <h1 align="center">
