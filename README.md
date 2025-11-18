@@ -185,9 +185,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <h2> 🧠 Fun Facts & Personal Passions</h2>
 
 -   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
--   🥊 **Disciplined Driver:** Kickboxing enthusiast—focused, disciplined, and impact-driven.
+-   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined, and impact-driven.
 -   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
--   💬 **Community Builder:** I believe great systems are the sum of rightly placed talent and collaborative effort.
+-   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent and collaborative effort.
 
 ---
 
