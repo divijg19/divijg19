@@ -195,7 +195,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 - `Python`: Pydantic, FastAPI, Polars, HuggingFace, LangGraph, LitServe, HTTPX, Ray, Mojo  
 - `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, Connect-RPC, gRPC, Tempoaral.io, Testcontainers, fx
 - `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
+- 
 **Personal Projects/Passion-focused:** Golang, HTMX, Templ, Flutter, Zig, WASM, WebGPU, Web3
+
 **Part-time Game dev & Entity Component System Design /High Performance Computing, Systems Engineering-focused** Rust (Bevy, Fyrox, macroquad, ggez), C++ (FFI), mlua (Luau), Typescript, SolidJS
 
 ---
