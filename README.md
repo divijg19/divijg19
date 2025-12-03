@@ -43,7 +43,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 - ⚜️ **Looking For:** Looking for Backend, AIML, AI Systems Engineer roles.
 - 🔭 **Career Focus:** AIML, Core and Applied AI with Agentic operations, Polars, LangGraph, Cloud-Native and Advanced Serverless Architectures, DevOps & MLOps workflows using Python, Go and Mojo.
-- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Game Development and making personal projects in systems programming using Rust, Zig, Lua and C++ w/ FFI.
+- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Systems Engineering, Game Development and making personal projects using Golang, HTMX, Templ, Flutter, Rust, Zig, C++ w/ FFI and Lua.
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 </details>
 <br>
