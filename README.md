@@ -42,9 +42,9 @@
 I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
 - ⚜️ **Looking For:** Looking for Backend, AIML, AI Systems Engineer roles.
-- 🔭 **Career Focus:** AIML, Core and Applied AI with Agentic operations, LangChain, Cloud-Native and Advanced Serverless Architectures, DevOps workflows using Python, Go and Mojo.
-- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Game Development and making personal projects in systems programming using Rust, Zig, Lua and C++ w/ FFI.
-- 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up. 
+- 🔭 **Career Focus:** AIML, Core and Applied AI with Agentic operations, Polars, LangGraph, Cloud-Native and Advanced Serverless Architectures, DevOps & MLOps workflows using Python, Go and Mojo.
+- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Game Development and making personal projects in systems programming using Rust, Zig, Lua and C++ w/ FFI.
+- 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 </details>
 <br>
 
@@ -189,6 +189,14 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 -   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined, and impact-driven.
 -   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
 -   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent and collaborative effort.
+
+## Active Tech Stacks in pursuit:
+**Career-focused:** Python(+Mojo), Golang, Typescript
+- `Python`: Pydantic, FastAPI, Polars, HuggingFace, LangGraph, LitServe, HTTPX, Ray, Mojo  
+- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, Connect-RPC, gRPC, Tempoaral.io, Testcontainers, fx
+- `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
+**Personal Projects/Passion-focused:** Golang, HTMX, Templ, Flutter, Zig, WASM, WebGPU, Web3
+**Part-time Game dev & Entity Component System Design /High Performance Computing, Systems Engineering-focused** Rust (Bevy, Fyrox, macroquad, ggez), C++ (FFI), mlua (Luau), Typescript, SolidJS
 
 ---
 
