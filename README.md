@@ -198,7 +198,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 **Personal Projects/Passion-focused:** Golang, HTMX, Templ, Flutter, Zig, WASM, WebGPU, Web3
 
-**Part-time Game Dev/High Performance Systems Engineering-focused** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
+**Part-time Game Dev/High Performance Systems Engineering-focused:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
 
 ---
 
