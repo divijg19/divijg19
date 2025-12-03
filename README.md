@@ -48,6 +48,17 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </details>
 <br>
 
+## Active Tech Stacks in pursuit:
+**Career-focused:** Python(+Mojo), Golang, Typescript
+- `Python`: Pydantic, FastAPI, Polars, HuggingFace, LangGraph, LitServe, HTTPX, Ray, Mojo  
+- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, Connect-RPC, gRPC, Tempoaral.io, Testcontainers, fx
+- `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
+
+**Personal Projects/Passion-focused:** Golang, HTMX, Templ, Flutter, Zig, WASM, WebGPU, Web3
+
+**Part-time Game Dev/High Performance Systems Engineering-focused:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
+
+
 
 ---
 
@@ -189,17 +200,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 -   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined, and impact-driven.
 -   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
 -   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent and collaborative effort.
-
-## Active Tech Stacks in pursuit:
-**Career-focused:** Python(+Mojo), Golang, Typescript
-- `Python`: Pydantic, FastAPI, Polars, HuggingFace, LangGraph, LitServe, HTTPX, Ray, Mojo  
-- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, Connect-RPC, gRPC, Tempoaral.io, Testcontainers, fx
-- `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
-
-**Personal Projects/Passion-focused:** Golang, HTMX, Templ, Flutter, Zig, WASM, WebGPU, Web3
-
-**Part-time Game Dev/High Performance Systems Engineering-focused:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
-
+  
 ---
 
 <details open>
