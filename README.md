@@ -62,7 +62,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 <br>
 <details open>
-<summary><h2> 📊 Visual Stats</h2></summary>
+<summary><h2> 🥂 Visual Insights</h2></summary>
 <br>
 
 <div align="center">
