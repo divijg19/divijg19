@@ -58,12 +58,12 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 **Part-time Game Dev/High Performance Systems Engineering-focused:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
 
-
-
 ---
 
+<br>
 <details open>
 <summary><h2> 📊 Visual GitHub Insights</h2></summary>
+<br>
 
 <div align="center">
   <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
@@ -79,7 +79,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
 </div>
 </details>
----
+<br>
 
 <details open>
 <summary><h2> 🧰 Tech Stack & Tools</h2></summary>
