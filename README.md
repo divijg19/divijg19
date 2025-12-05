@@ -62,7 +62,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 ---
 
-### 📊 Visual GitHub Insights
+<details open>
+<summary><h2> 📊 Visual GitHub Insights</h2></summary>
 
 <div align="center">
   <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
@@ -77,7 +78,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <div align="center">
   <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
 </div>
-
+</details>
 ---
 
 <details open>
