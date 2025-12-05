@@ -177,6 +177,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 ---
 
+<br>
 <details open>
 <summary><h2> 💼 Experience Snapshot</h2></summary>
 <br>
