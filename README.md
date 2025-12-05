@@ -45,8 +45,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 - 🔭 **Career Focus:** AIML, Core and Applied AI with Agentic operations, Polars, LangGraph, Cloud-Native and Advanced Serverless Architectures, DevOps & MLOps workflows using Python, Go and Mojo.
 - 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Systems Engineering, Game Development and making personal projects using Golang, HTMX, Templ, Flutter, Rust, Zig, C++ w/ FFI and Lua.
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
-</details>
-<br>
 
 ## Active Tech Stacks in pursuit:
 **Career-focused:** Python(+Mojo), Golang, Typescript
@@ -57,6 +55,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 **Personal Projects/Passion-focused:** Golang, HTMX, Templ, Flutter, Zig, WASM, WebGPU, Web3
 
 **Part-time Game Dev/High Performance Systems Engineering-focused:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
+
+</details>
+<br>
 
 ---
 
