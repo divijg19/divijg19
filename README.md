@@ -57,7 +57,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 **Part-time Game Dev/High Performance Systems Engineering-focused:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
 
 **Databases:** PostgreSQL, MongoDB, SQLite, DuckDB, Redis, ACID
+
 **Infra:** Fly.io, Render, Vercel, Github Workflows/Actions, Coolify, Litestream
+
 **Deployment:** Docker Compose, Kubernetes, Inference APIs
 
 </details>
