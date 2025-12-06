@@ -202,6 +202,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </details>
 <br>
 
+---
+
 <details open>
 <summary><h2> 🧠 Fun Facts & Personal Passions</h2></summary>
 
@@ -211,10 +213,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 -   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent and collaborative effort.
 </details>
 
----
-
 <details open>
-<summary><h2> 💬 Let’s Connect</h2></summary>
+<summary><h2> 💬 Connect with me!</h2></summary>
 
 
 <table>
