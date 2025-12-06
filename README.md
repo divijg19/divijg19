@@ -49,12 +49,16 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 ## Active Tech Stacks in pursuit:
 **Career-focused:** Python(+Mojo), Golang, Typescript
 - `Python`: Pydantic, FastAPI, Polars, pgvector, HuggingFace, LangGraph, LitServe, HTTPX, Ray, Mojo  
-- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Connect-RPC, gRPC, Temporal.io, Testcontainers, fx
+- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Connect-RPC, gRPC-Protobuf, Temporal.io, Testcontainers, fx
 - `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
 
 **Personal Projects/Passion-focused:** Golang, HTMX, Templ, Flutter, Zig, WASM, WebGPU, Web3
 
 **Part-time Game Dev/High Performance Systems Engineering-focused:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS
+
+**Databases:** PostgreSQL, MongoDB, SQLite, DuckDB, Redis, ACID
+**Infra:** Fly.io, Render, Vercel, Github Workflows/Actions, Coolify, Litestream
+**Deployment:** Docker Compose, Kubernetes, Inference APIs
 
 </details>
 <br>
