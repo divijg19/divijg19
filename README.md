@@ -135,6 +135,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </details>
 <br>
 
+---
 
 <details open>
 <summary><h2> 🛠️ Featured Projects</h2></summary>
@@ -180,8 +181,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </details>
 <br>
-
----
 
 <br>
 <details open>
