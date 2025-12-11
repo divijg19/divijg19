@@ -34,6 +34,26 @@
   <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
 </p>
 
+<details open>
+<summary><h2> 🥂 Visual Insights</h2></summary>
+<br>
+
+<div align="center">
+  <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
+  <img src="https://zinnia-rho.vercel.app/api/stats?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
+  <br/>
+  <img src="https://zinnia-rho.vercel.app/api/streak?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak" />
+</div>
+
+### 📊 LeetCode Stats
+
+<div align="center">
+  <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
+</div>
+</details>
+<br>
+
 <br>
 <details open>
 <summary><h2> 🧠 Who I Am</h2></summary>
@@ -66,26 +86,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <br>
 
 ---
-
-<details open>
-<summary><h2> 🥂 Visual Insights</h2></summary>
-<br>
-
-<div align="center">
-  <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
-  <img src="https://zinnia-rho.vercel.app/api/stats?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
-  <br/>
-  <img src="https://zinnia-rho.vercel.app/api/streak?user=divijg19&theme=watchdog&hide_border=true" alt="Github Streak" />
-</div>
-
-### 📊 LeetCode Stats
-
-<div align="center">
-  <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
-</div>
-</details>
-<br>
 
 <details open>
 <summary><h2> 🧰 Tech Stack & Tools</h2></summary>
