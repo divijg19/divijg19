@@ -37,6 +37,7 @@
 <details open>
 <summary><h2> 🥂 Visual Insights</h2></summary>
 <br>
+  
 ### 🐙 GitHub Widgets
 
 <div align="center">
