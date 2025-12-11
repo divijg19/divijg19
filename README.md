@@ -35,8 +35,8 @@
 </p>
 
 <details open>
-<summary><h2> 🥂 GitHub Insights</h2></summary>
-<br>
+<summary><h2> 🥂 Visual Insights</h2></summary>
+### 🐙 GitHub Widgets
 
 <div align="center">
   <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" />
