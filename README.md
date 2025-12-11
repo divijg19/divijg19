@@ -35,7 +35,7 @@
 </p>
 
 <details open>
-<summary><h2> 🥂 Visual Insights</h2></summary>
+<summary><h2> 🥂 GitHub Insights</h2></summary>
 <br>
 
 <div align="center">
@@ -52,9 +52,9 @@
   <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
 </div>
 </details>
-<br>
 
-<br>
+---
+
 <details open>
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
@@ -84,8 +84,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </details>
 <br>
-
----
 
 <details open>
 <summary><h2> 🧰 Tech Stack & Tools</h2></summary>
@@ -138,8 +136,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <p>
 <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <!-- CloudFormation -->
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <!-- Terraform (Purple) -->
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
