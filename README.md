@@ -52,7 +52,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 - `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Connect-RPC, gRPC-Protobuf, Temporal.io, Testcontainers, fx
 - `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
 
-**Personal Projects/Passion Stack:** Golang, HTMX, Templ, Flutter, Jaspr, Zig, WASM, Web3
+**Personal Projects/Passion Stack:** Golang, Templ, TailwindCSS, HTMX, Dart, Jaspr, Flutter, Zig, WASM, Web3
 
 **Part-time Game-Dev/Systems Stack:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS, WebGPU
 
@@ -119,6 +119,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
   <!-- WASM -->
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <!-- Web3 -->
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
 #### 👾 Part-time Game-Dev/Systems Stack
