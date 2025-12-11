@@ -133,7 +133,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
-#### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p>
 <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -146,7 +146,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Fly.io-4c48db?style=for-the-badge&logo=flydotio&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Databases
+### ⚙️ Backend & Databases
 <p>
   <!-- HuggingFace -->
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
@@ -158,7 +158,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-#### 🌐 Frontend Development
+### 🌐 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
