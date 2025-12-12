@@ -135,7 +135,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 ### ☁️ Cloud & DevOps
 <p>
-<!-- AWS -->
+  <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <!-- Terraform (Purple) -->
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
@@ -181,7 +181,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <details open>
 <summary><h4> ⚜️ Lys - Personal Portfolio</h4></summary>
 <br>
-<a href="htttps://divijganjoo.me">
+<a href="https://divijganjoo.me" alt="Click here to visit my portfolio"></a>
 <ul>
 <li>A Personal Portfolio crafted with immense love and labor.</li>
 <li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
@@ -193,9 +193,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <details open>
 <summary><h4> 🎨 Séra Koche (A Work In Progress)</h4></summary>
 <br>
-<a href="https://github.com/divijg19/project-sera-koche">
-  <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
-</a>
 <ul>
 <li>A fashion brand concept built at the intersection of community, sophistication, design, e-commerce strategy, and purpose. This project explores brand identity, user experience, and a full-stack implementation.</li>
 <li><strong>Tech Used:</strong> Go, Typescript, React, Python, various APIs</li>
@@ -207,9 +204,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <details open>
 <summary><h4> 🤖 Python Automation Toolkit</h4></summary>
 <br>
-<a href="https://github.com/divijg19/project-automation-toolkit">
-  <img src="https://user-images.githubusercontent.com/74038190/212284193-7ce8032b-0294-4379-9c40-7e1e94448575.gif" alt="Project GIF" />
-</a>
 <ul>
 <li>A collection of intelligent automation scripts designed to boost productivity. Includes tools for task management, data processing, and streamlining daily digital workflows.</li>
 <li><strong>Tech Used:</strong> Python, Pandas, various APIs. Soon to be updated with Mojo</li>
