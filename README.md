@@ -181,7 +181,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <details open>
 <summary><h4> ⚜️ Lys - Personal Portfolio</h4></summary>
 <br>
-<a href="https://divijganjoo.me" alt="Click here to visit my portfolio"></a>
+<a href="https://www.divijganjoo.me" alt="Click here to visit my portfolio"></a>
 <ul>
 <li>A Personal Portfolio crafted with immense love and labor.</li>
 <li><strong>Tech Used:</strong> Next.js, Typescript, React, Three.js TailwindCSS, Framer Motion, Zustand, Zod</li>
