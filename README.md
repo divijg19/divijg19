@@ -29,8 +29,8 @@
 <p align="left">
   <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
   <a href="https://www.python.org/downloads/">
-    <img src="https://img.shields.io/github/v/release/python/cpython?style=flat-square&logo=python" alt="Python Version"/>
-  </a>
+  <img src="https://img.shields.io/pypi/v/python?style=flat-square&logo=python" alt="Python Version"/>
+</a>
   <a href="https://www.modular.com/max/mojo">
     <img src="https://img.shields.io/badge/Mojo-preview-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo Version"/>
   </a>
