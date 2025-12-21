@@ -28,8 +28,12 @@
 <!-- Line 2: Language Versions -->
 <p align="left">
   <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.14-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
-  <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-27.6.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/github/v/release/python/cpython?style=flat-square&logo=python" alt="Python Version"/>
+  </a>
+  <a href="https://www.modular.com/max/mojo">
+    <img src="https://img.shields.io/badge/Mojo-preview-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo Version"/>
+  </a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
   <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
 </p>
