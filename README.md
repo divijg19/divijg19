@@ -54,7 +54,7 @@
 ### 📊 LeetCode Stats
 
 <div align="center">
-  <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
+  <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog&v1.1" alt="LeetCode Stats" style="width:50;" />
 </div>
 </details>
 
