@@ -30,7 +30,9 @@
   <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label="></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
   <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-preview-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo Version"/></a>
-  <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a><a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/badge/TypeScript-≥5.9.3-3178C6?style=flat-square&logo=typescript"></a>
+  <a href="https://www.npmjs.com/package/typescript">
+  <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript&label=TypeScript">
+</a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-stable-000000?style=flat-square&logo=rust"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
 </p>
 
