@@ -29,13 +29,13 @@
   <!-- <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a> --!>
   
   <a href="https://go.dev/dl/">
-  <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white">
 </a>
 <a href="https://go.dev/dl/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[?(@.stable==true)][0].version&url=https://go.dev/dl/?mode=json" alt="Go Stable">
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json">
 </a>
 <a href="https://go.dev/dl/">
-  <img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label=" alt="Go Tag">
+  <img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label=">
 </a>
 
   <a href="https://www.python.org/downloads/">
