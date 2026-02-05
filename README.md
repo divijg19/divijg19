@@ -26,7 +26,16 @@
 
 <!-- Line 2: Language Versions -->
 <p align="left">
-  <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
+  <a href="https://go.dev/dl/">
+  <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+</a>
+<a href="https://go.dev/dl/">
+  <img src="https://img.shields.io/endpoint?style=flat-square&label=&url=https://go.dev/dl/?mode=json&query=$[?(@.stable==true)][0].version" alt="Go Stable">
+</a>
+<a href="https://go.dev/dl/">
+  <img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label=" alt="Go Tag">
+</a>
+
   <a href="https://www.python.org/downloads/">
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python" alt="Python Version"/>
 </a>
