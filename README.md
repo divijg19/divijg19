@@ -29,7 +29,7 @@
   
   <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label="></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
-  <a href="https://www.modular.com/max/mojo" title="Mojo 🔥 Preview"><img src="https://img.shields.io/badge/Mojo%20🔥-preview-FF4A00?style=flat-square&logo=code&logoColor=white" alt="Mojo 🔥 Preview"/></a>
+  <a href="https://www.modular.com/max/mojo" title=" 🔥Mojo Preview"><img src="https://img.shields.io/badge/%20🔥Mojo-preview-FF4A00?style=flat-square&logo=code&logoColor=white" alt="🔥Mojo Preview"/></a>
   <a href="https://www.npmjs.com/package/typescript">
   <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript&label=TypeScript">
 </a>
