@@ -1,0 +1,244 @@
+<p align="center">
+  <img height="200" width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Banner.png" alt="Banner" />
+</p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  Hi, I'm Divij Ganjoo
+</h1>
+
+<h3 align="center">I design and build backend systems, developer tools, and platforms, from UX to infrastructure.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=435&lines=Backend+systems+%26+infrastructure;End-to-end+systems%3A+UX+to+infra;Developer+tools%2C+CLIs+%26+platforms;Runtimes+%26+execution+models;Systems-first+games+%26+simulations;Open-source+systems+engineering;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Line 1: Profile Stats -->
+<p align="left">
+  <a href="https://github.com/divijg19">
+    <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/divijg19?tab=followers">
+    <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
+  </a>
+</p>
+
+<!-- Line 2: Language Versions -->
+<p align="left">
+  
+  <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label="></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
+  <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-preview-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo Version"/></a>
+  <a href="https://www.npmjs.com/package/typescript">
+  <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript&label=TypeScript">
+</a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-stable-000000?style=flat-square&logo=rust"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
+</p>
+
+
+<details open>
+<summary><h2> 🥂 Visual Insights</h2></summary>
+  
+### 🐙 GitHub Widgets
+
+<div align="center">
+  <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Reviews&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
+  <br>
+  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
+  <img src="https://zinnia-rho.vercel.app/api/stats?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
+  <br>
+  <img src="https://zinnia-rho.vercel.app/api/streak?user=divijg19&hide_border=true&theme=watchdog" alt="Github Streak" />
+</div>
+
+### 📊 LeetCode Stats
+
+<div align="center">
+  <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
+</div>
+</details>
+
+---
+
+<details open>
+<summary><h2> 🧠 Who I Am</h2></summary>
+<br>
+
+I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
+
+- ⚜️ **Looking For:** Looking for Backend & Systems (or Infra, Platform, AIML, AI Systems) roles
+- 🔭 **Career Focus:** AIML, Core and Applied AI with Agentic operations, Polars, LangGraph, Cloud-Native and Advanced Serverless Architectures, DevOps & MLOps workflows using Python, Go and Mojo.
+- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Systems Engineering, Game Development and making personal projects using Golang, HTMX, Templ, Flutter, Rust, Zig, C++ w/ FFI and Lua.
+- 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
+
+## Active Tech Stacks in pursuit:
+**Career Stack:** Python(+Mojo), Golang, Typescript
+- `Python`: Pydantic, FastAPI, Polars, pgvector, HuggingFace, LangGraph, LitServe, HTTPX, Ray, Mojo
+- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Connect-RPC, gRPC-Protobuf, Temporal.io, Testcontainers, fx
+- `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
+
+**Personal Projects/Passion Stack:** Golang, Templ, TailwindCSS, HTMX, Dart, Jaspr, Flutter, Zig, WASM, Web3
+
+**Part-time Game-Dev/Systems Stack:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS, WebGPU
+
+**Databases:** PostgreSQL, MongoDB, SQLite, DuckDB, Redis, Firebase, Supabase
+
+**Infra:** AWS, Terraform, Fly.io, Render, Docker, Vercel, Github Workflows/Actions, Coolify, Litestream
+
+**Deployment:** HuggingFace, Docker Compose, Kubernetes, Inference APIs
+
+</details>
+<br>
+
+<details open>
+<summary><h2> 🧰 Tech Stack & Tools</h2></summary>
+
+
+### 💻 Languages
+#### 🎯 Career Stack
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### ⚡ Personal Projects/Passion Stack
+<p>
+  <!-- Go (Mint/Teal variant) -->
+  <img src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white" />
+  <!-- Templ (Yellow) -->
+  <img src="https://img.shields.io/badge/Templ-DBE617?style=for-the-badge&logo=go&logoColor=black" />
+  <!-- HTMX (Blue) -->
+  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
+  <!-- Dart (Blue) -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <!-- Jaspr (Pink/Purple - Custom) -->
+  <img src="https://img.shields.io/badge/Jaspr-EC407A?style=for-the-badge&logo=dart&logoColor=white" />
+  <!-- Flutter (Dark Blue) -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <!-- Zig (Orange) -->
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
+  <!-- WASM -->
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <!-- Web3 -->
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
+
+#### 👾 Part-time Game-Dev/Systems Stack
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <!-- Bevy (Rust Engine) -->
+  <img src="https://img.shields.io/badge/Bevy-232323?style=for-the-badge&logo=bevy&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pixi.js-FF8C00?style=for-the-badge&logo=pixiv&logoColor=white" />
+  <!-- WebGPU (Text Badge) -->
+  <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <!-- Terraform (Purple) -->
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fly.io-4c48db?style=for-the-badge&logo=flydotio&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <!-- HuggingFace -->
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF100?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
+</p>
+</details>
+<br>
+
+---
+
+<br>
+<details open>
+<summary><h2> 🧠 Fun Facts & Personal Passions</h2></summary>
+
+-   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
+-   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined, and impact-driven.
+-   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
+-   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent and collaborative effort.
+</details>
+
+<details open>
+<summary><h2> 💬 Connect with me!</h2></summary>
+
+
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/divij-ganjoo/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/divij-ganjoo/" target="_blank">Divij Ganjoo</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="mailto:divijganjoo2003@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="mailto:divijganjoo2003@gmail.com" target="_blank">divijganjoo2003@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://divijganjoo.me" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://divijganjoo.me" target="_blank">divijganjoo.me</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.instagram.com/one_excellent_hope/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.instagram.com/one_excellent_hope/" target="_blank">@one_excellent_hope</a>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+<p align="center">
+  <i>"The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come." - Steve Jobs</i>
+</p>
