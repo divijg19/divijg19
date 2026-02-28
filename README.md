@@ -115,14 +115,14 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <!-- WebSockets -->
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <!-- Chi -->
   <img src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <!-- sqlc -->
+  <img src="https://img.shields.io/badge/sqlc-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <!-- pgx -->
   <img src="https://img.shields.io/badge/pgx-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- sqlc -->
-  <img src="https://img.shields.io/badge/sqlc-000000?style=for-the-badge&logoColor=white" />
+  <!-- WebSockets -->
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <!-- gRPC -->
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <!-- Protobuf -->
@@ -130,30 +130,30 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <!-- Temporal -->
   <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
   <!-- fx -->
-  <img src="https://img.shields.io/badge/Fx-000000?style=for-the-badge&logo=uber&logoColor=white" />
-  <!-- Testcontainers -->
-  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uber%20Fx-000000?style=for-the-badge&logo=uber&logoColor=white" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" />
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <!-- LangGraph -->
+  <img src="https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=langgraph&logoColor=white" />
   <!-- FastAPI -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <!-- LiteStar -->
+  <img src="https://img.shields.io/badge/Litestar-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
   <!-- Pydantic -->
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white" />
   <!-- Polars -->
   <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <!-- LangGraph -->
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" />
+  <!-- Ray -->
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
   <!-- pgvector -->
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <!-- HTTPX -->
   <img src="https://img.shields.io/badge/HTTPX-009688?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- LitServe -->
-  <img src="https://img.shields.io/badge/LitServe-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
 
 
@@ -212,9 +212,11 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Testcontainers -->
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <!-- AWS -->
+  <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Fly.io-4c48db?style=for-the-badge&logo=flydotio&logoColor=white" />
   <!-- Render -->
