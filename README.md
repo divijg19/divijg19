@@ -66,26 +66,42 @@
 
 I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
-- ⚜️ **Looking For:** Looking for Backend & Systems (or Infra, Platform, AIML, AI Systems) roles
-- 🔭 **Career Focus:** AIML, Core and Applied AI with Agentic operations, Polars, LangGraph, Cloud-Native and Advanced Serverless Architectures, DevOps & MLOps workflows using Python, Go and Mojo.
-- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Systems Engineering, Game Development and making personal projects using Golang, HTMX, Templ, Dart, Rust, Zig, C++ w/ FFI and Lua.
-- 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
+- ⚜️ **Seeking:** Backend, Distributed Systems, AI Systems, Infrastructure, or Platform Engineering roles
+
+- 🔭 **Career Focus:** Distributed systems, microservices, realtime architectures, and AI agent platforms — building cloud-native systems with Python, Go, and Mojo across DevOps and MLOps workflows.
+
+- 🎉 **Passions:** Deep diving into systems-level technologies like Go, Rust, Zig, and Mojo while exploring emerging frontiers such as gRPC, WebGPU, and WASM. I enjoy building full-stack and systems-driven personal projects using Golang, HTMX, Templ, Charmbracelet, Dart, Rust, Zig, and Lua.
+
+- 🌱 **Ideology:** To design and build transformative systems, platforms, and technology brands from the ground up.
+
+## 🚀 What I Build
+- Distributed backend systems
+- AI agent platforms
+- Realtime applications
+- Developer tools and infrastructure
+- Experimental systems and game technologies
+
+## 🧭 Engineering Philosophy
+
+- Systems over scripts
+- Correctness before cleverness
+- Explicit architecture beats hidden magic
+- Developer experience is a first-class feature
+- Local-first and user-owned software is the future
 
 ## Active Tech Stacks in pursuit:
-**Career Stack:** Python(+Mojo), Golang, Typescript
-- `Python`: Pydantic, FastAPI, Polars, pgvector, HuggingFace, LangGraph, LitServe, HTTPX, Ray, Mojo
-- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Connect-RPC, gRPC-Protobuf, Temporal.io, Testcontainers, fx
-- `Typescript`: Next.js, shadcn/ui, Tanstack Query, Zustand, zod
+**Career Stack:** Golang, Python(+Mojo), Typescript
+- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Protobuf, gRPC, Temporal.io, Testcontainers, fx
+- `Python`: Pydantic, FastAPI, Polars, pgvector, PyTorch, LangGraph, LitServe, HTTPX, Ray, Mojo
+- `Typescript`: Next.js, React, Astro, SolidJS, Pixijs, shadcn/ui, Tanstack Query & Start, Zustand, zod
 
 **Personal Projects/Passion Stack:** Golang, Templ, TailwindCSS, HTMX, Dart, Jaspr, Flutter, Zig, WASM, Web3
 
-**Part-time Game-Dev/Systems Stack:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), Typescript, SolidJS, WebGPU
+**Part-time Game-Dev/Systems Stack:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), SolidJS, WebGPU
 
-**Databases:** PostgreSQL, MongoDB, SQLite, DuckDB, Redis, Firebase, Supabase
+**Databases:** PostgreSQL, DuckDB, MongoDB, Redis, SQLite, Firebase, Supabase
 
-**Infra:** AWS, Terraform, Fly.io, Render, Docker, Vercel, Github Workflows/Actions, Coolify, Litestream
-
-**Deployment:** HuggingFace, Docker Compose, Kubernetes, Inference APIs
+**Infra & Deployment:** HuggingFace, Docker/Docker Compose, Inference APIs, Fly.io, Render, Coolify, Vercel, Github Workflows/Actions, AWS
 
 </details>
 <br>
@@ -94,39 +110,93 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <summary><h2> 🧰 Tech Stack & Tools</h2></summary>
 
 
-### 💻 Languages
-#### 🎯 Career Stack
+### 💻 Engineering Stack
+#### 🎯 Career Core
+
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- WebSockets -->
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <!-- Chi -->
+  <img src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <!-- pgx -->
+  <img src="https://img.shields.io/badge/pgx-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- sqlc -->
+  <img src="https://img.shields.io/badge/sqlc-000000?style=for-the-badge&logoColor=white" />
+  <!-- gRPC -->
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <!-- Protobuf -->
+  <img src="https://img.shields.io/badge/Protobuf-FFCA28?style=for-the-badge&logo=google&logoColor=black" />
+  <!-- Temporal -->
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
+  <!-- fx -->
+  <img src="https://img.shields.io/badge/Fx-000000?style=for-the-badge&logo=uber&logoColor=white" />
+  <!-- Testcontainers -->
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-#### ⚡ Personal Projects/Passion Stack
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" />
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <!-- Pydantic -->
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- Polars -->
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <!-- LangGraph -->
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" />
+  <!-- pgvector -->
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- HTTPX -->
+  <img src="https://img.shields.io/badge/HTTPX-009688?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- LitServe -->
+  <img src="https://img.shields.io/badge/LitServe-FF6F00?style=for-the-badge&logoColor=white" />
+</p>
+
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- TanStack Query -->
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <!-- TanStack Start -->
+  <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react&logoColor=white" />
+  <!-- Zustand -->
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+  <!-- Zod -->
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### ⚡ Personal Projects & Passion Core
+<p>
+  <!-- Zig (Orange) -->
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
   <!-- Go (Mint/Teal variant) -->
   <img src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white" />
   <!-- Templ (Yellow) -->
   <img src="https://img.shields.io/badge/Templ-DBE617?style=for-the-badge&logo=go&logoColor=black" />
   <!-- HTMX (Blue) -->
   <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
+  <!-- Bubble Tea -->
+  <img src="https://img.shields.io/badge/Bubble_Tea-FF69B4?style=for-the-badge&logo=go&logoColor=white" />
+  <!-- Lip Gloss -->
+  <img src="https://img.shields.io/badge/Lip_Gloss-7D56F4?style=for-the-badge&logo=go&logoColor=white" />
   <!-- Dart (Blue) -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <!-- Jaspr (Pink/Purple - Custom) -->
   <img src="https://img.shields.io/badge/Jaspr-EC407A?style=for-the-badge&logo=dart&logoColor=white" />
   <!-- Flutter (Dark Blue) -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <!-- Zig (Orange) -->
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
   <!-- WASM -->
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <!-- Web3 -->
   <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
-#### 👾 Part-time Game-Dev/Systems Stack
+#### 👾 Indie Game-Dev & Systems Core
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <!-- Bevy (Rust Engine) -->
@@ -138,17 +208,19 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps, Infra & Deployment
 <p>
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <!-- Terraform (Purple) -->
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Fly.io-4c48db?style=for-the-badge&logo=flydotio&logoColor=white" />
+  <!-- Render -->
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <!-- Coolify -->
+  <img src="https://img.shields.io/badge/Coolify-FF6C37?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -169,9 +241,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
 </p>
 </details>
@@ -180,6 +250,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 ---
 
 <br>
+
 <details open>
 <summary><h2> 🧠 Fun Facts & Personal Passions</h2></summary>
 
@@ -188,10 +259,10 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 -   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
 -   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent and collaborative effort.
 </details>
+<br>
 
 <details open>
 <summary><h2> 💬 Connect with me!</h2></summary>
-
 
 <table>
   <tr>
