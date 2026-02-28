@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/KBanner.png" alt="Banner" />
+  <img height=230 width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Github_Banner_divijg19.png" alt="Banner" />
 </p>
 
 <h1 align="center">
@@ -26,16 +26,16 @@
 
 <!-- Line 2: Language Versions -->
 <p align="left">
-  <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
-  <a href="https://www.python.org/downloads/">
-  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python" alt="Python Version"/>
+  
+  <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label="></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
+  <a href="https://www.modular.com/max/mojo" title=" 🔥Mojo Preview"><img src="https://img.shields.io/badge/🔥%20Mojo-preview-FF4A00?style=flat-square&logo=code&logoColor=white" alt="🔥Mojo Preview"/></a>
+  <a href="https://www.npmjs.com/package/typescript">
+  <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript&label=TypeScript">
 </a>
-  <a href="https://www.modular.com/max/mojo">
-    <img src="https://img.shields.io/badge/Mojo-preview-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo Version"/>
-  </a>
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
-  <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-555?style=flat-square&logo=rust&logoColor=white"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/stable-000000?style=flat-square"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&label="></a>
 </p>
+
 
 <details open>
 <summary><h2> 🥂 Visual Insights</h2></summary>
@@ -43,7 +43,7 @@
 ### 🐙 GitHub Widgets
 
 <div align="center">
-  <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Reviews&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
+  <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
   <br>
   <img src="https://zinnia-rho.vercel.app/api/top-langs?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
   <img src="https://zinnia-rho.vercel.app/api/stats?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
@@ -68,7 +68,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 - ⚜️ **Looking For:** Looking for Backend & Systems (or Infra, Platform, AIML, AI Systems) roles
 - 🔭 **Career Focus:** AIML, Core and Applied AI with Agentic operations, Polars, LangGraph, Cloud-Native and Advanced Serverless Architectures, DevOps & MLOps workflows using Python, Go and Mojo.
-- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Systems Engineering, Game Development and making personal projects using Golang, HTMX, Templ, Flutter, Rust, Zig, C++ w/ FFI and Lua.
+- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer- Connect-RPC, gRPC, Protobuf, WASM, WebGPU, WebGL. Strong interest in Systems Engineering, Game Development and making personal projects using Golang, HTMX, Templ, Dart, Rust, Zig, C++ w/ FFI and Lua.
 - 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
 
 ## Active Tech Stacks in pursuit:
