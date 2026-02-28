@@ -118,16 +118,16 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <p>
   <!-- Chi -->
   <img src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <!-- sqlc -->
-  <img src="https://img.shields.io/badge/sqlc-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <!-- pgx -->
-  <img src="https://img.shields.io/badge/pgx-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <!-- WebSockets -->
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <!-- gRPC -->
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <!-- Protobuf -->
-  <img src="https://img.shields.io/badge/Protobuf-FFCA28?style=for-the-badge&logo=google&logoColor=black" />
+  <img src="https://img.shields.io/badge/Protobuf-FFCA28?style=for-the-badge&logo=google&logoColor=black" /> 
+  <!-- sqlc -->
+  <img src="https://img.shields.io/badge/sqlc-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <!-- pgx -->
+  <img src="https://img.shields.io/badge/pgx-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <!-- Temporal -->
   <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
   <!-- fx -->
