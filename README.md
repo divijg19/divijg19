@@ -113,8 +113,9 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 ### 💻 Engineering Stack
 #### 🎯 Career Core
 
-<p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+<p>
   <!-- Chi -->
   <img src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <!-- sqlc -->
@@ -133,9 +134,10 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Uber%20Fx-000000?style=for-the-badge&logo=uber&logoColor=white" />
 </p>
 
-<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" />
+
+<p>
   <!-- PyTorch -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <!-- LangGraph -->
@@ -156,10 +158,10 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/HTTPX-009688?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-
-<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+<p>
   <!-- TanStack Query -->
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <!-- TanStack Start -->
@@ -241,8 +243,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
 </p>
@@ -254,7 +256,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <br>
 
 <details open>
-<summary><h2> 🧠 Fun Facts & Personal Passions</h2></summary>
+<summary><h2> 🧠 Aspirations & Passions</h2></summary>
 
 -   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
 -   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined, and impact-driven.
