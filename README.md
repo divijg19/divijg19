@@ -106,7 +106,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 <br>
 
 <details open>
-<summary><h2> 🧰 Engineering Stack</h2></summary>
+<summary><h2> 🧰 Tech/Engineering Stack</h2></summary>
 
 <details open>
 <summary><h3>💻 Languages & Frameworks</h3></summary>
