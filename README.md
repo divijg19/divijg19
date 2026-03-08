@@ -27,7 +27,7 @@
 <!-- Line 2: Language Versions -->
 <p align="left">
   
-  <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&label="></a>
+  <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?include_prereleases&style=flat-square&label=tip&labelColor=orange"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
   <a href="https://www.modular.com/max/mojo" title=" 🔥Mojo Preview"><img src="https://img.shields.io/badge/🔥%20Mojo-preview-FF4A00?style=flat-square&logo=code&logoColor=white" alt="🔥Mojo Preview"/></a>
   <a href="https://www.npmjs.com/package/typescript">
@@ -68,7 +68,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 - ⚜️ **Seeking:** Backend, Distributed Systems, AI Systems, Infrastructure, or Platform Engineering roles
 
-- 🔭 **Career Focus:** Distributed systems, microservices, realtime architectures, and AI agent platforms — building cloud-native systems with Python, Go, and Mojo across DevOps and MLOps workflows.
+- 🔭 **Career Focus:** Distributed systems, microservices, realtime architectures, and AI agent platforms- building cloud-native systems with Python, Go, and Mojo across DevOps and MLOps workflows.
 
 - 🎉 **Passions:** Deep diving into systems-level technologies like Go, Rust, Zig, and Mojo while exploring emerging frontiers such as gRPC, WebGPU, and WASM. I enjoy building full-stack and systems-driven personal projects using Golang, HTMX, Templ, Charmbracelet, Dart, Rust, Zig, and Lua.
 
@@ -180,7 +180,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </details>
 
-<h4>⚡ Personal Projects & Passion Core</h4>
+<details open>
+<summary><h4>⚡ Personal Projects & Passion Core</h4></summary>
 <p>
   <!-- Zig (Orange) -->
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
@@ -206,7 +207,12 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
-<h4>👾 Indie Game-Dev & Systems Core</h4>
+</details>
+
+<br>
+
+<details open>
+<summary><h4>👾 Indie Game-Dev & Systems Core</h4></summary>
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <!-- Bevy (Rust Engine) -->
@@ -217,6 +223,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <!-- WebGPU (Text Badge) -->
   <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
+</details>
 
 </details>
 <br>
