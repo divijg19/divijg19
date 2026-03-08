@@ -209,8 +209,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 </details>
 
-<br>
-
 <details open>
 <summary><h4>👾 Indie Game-Dev & Systems Core</h4></summary>
 <p>
@@ -225,8 +223,19 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 </p>
 </details>
 
+<details open>
+<summary><h4>🌐 Frontend Development</h4></summary>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
+</p>
 </details>
-<br>
+
+</details>
 
 <h3>☁️ Cloud, DevOps, Infra & Deployment</h3>
 <p>
@@ -257,15 +266,6 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-<h3>🌐 Frontend Development</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
-</p>
 </details>
 <br>
 
