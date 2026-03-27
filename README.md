@@ -8,7 +8,7 @@
 </h1>
 
   <h3 align="center">Backend & Distributed Systems engineer building interfaces, realtime and AI-enabled systems.</h3>
-  <h4 align="center">I also design developer tools, and platforms, from UX to infrastructure.</h4>
+  <h4 align="center">I also design developer tools, local-first platforms, and runtimes from UX to infrastructure.</h4>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=435&lines=Backend+systems+%26+infrastructure;End-to-end+systems%3A+UX+to+infra;Developer+tools%2C+CLIs+%26+platforms;Runtimes+%26+execution+models;Systems-first+games+%26+simulations;Open-source+systems+engineering;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust" alt="Typing SVG" />
@@ -95,14 +95,14 @@ My journey in tech is guided by two core principles: wanting a deep understandin
 
 ## Career Stack at a glance:
 **Golang, Python(+Mojo), Typescript**
-- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Protobuf, gRPC, Temporal.io, Testcontainers, fx
-> Type-safe PostgreSQL access (pgx + sqlc), schema-first APIs with Protobuf/gRPC
-- `Python`: Pydantic, FastAPI, Polars, pgvector, PyTorch, LangGraph, LitServe, HTTPX, Ray, Mojo
-- `Typescript`: Next.js, React, Astro, SolidJS, Pixijs, shadcn/ui, Tanstack Query & Start, Zustand, zod
+- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, gRPC, Protobuf, sqlc, pgx, Temporal.io, fx, Testcontainers
+- `Type-safe PostgreSQL access (pgx + sqlc), schema-first APIs with Protobuf/gRPC`
+- `Python`: PyTorch, LangGraph, FastAPI, Litestar, Pydantic, Polars, Ray, pgvector, HTTPX, Mojo
+- `Typescript`: Tanstack Query & Start, Zustand, zod, React, Next.js, Astro, SolidJS, Pixijs, shadcn/ui, TailwindCSS
 
-**Databases:** PostgreSQL, DuckDB, MongoDB, Redis, SQLite, Firebase, Supabase
+**Databases:** DuckDB, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase
 
-**Infra & Deployment:** HuggingFace, Docker/Docker Compose, Inference APIs, Fly.io, Render, Coolify, Vercel, Github Workflows/Actions, AWS
+**Infra & Deployment:** HuggingFace, Inference APIs, Docker/Docker Compose, Github Workflows & Actions, Vercel, AWS, Fly.io, Render, Coolify
 
 </details>
 <br>
