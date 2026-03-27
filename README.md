@@ -224,11 +224,11 @@ My journey in tech is guided by two core principles: wanting a deep understandin
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Pixi.js-FF8C00?style=for-the-badge&logo=pixiv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
   <!-- WebGPU (Text Badge) -->
   <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <!-- WASM -->
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
 </div>
 </details>
 
