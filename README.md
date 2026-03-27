@@ -1,31 +1,31 @@
-<p align="center">
+<div align="center">
   <img height=230 width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Github_Banner_divijg19.png" alt="Banner" />
-</p>
+</div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
   Hi, I'm Divij Ganjoo
 </h1>
 
-<h3 align="center">I design and build backend systems, developer tools, and platforms, from UX to infrastructure.</h3>
+<h3 align="center">Backend & distributed systems engineer focused on realtime infra and AI-enabled Systems. I also design developer tools, and platforms, from UX to infrastructure.</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=435&lines=Backend+systems+%26+infrastructure;End-to-end+systems%3A+UX+to+infra;Developer+tools%2C+CLIs+%26+platforms;Runtimes+%26+execution+models;Systems-first+games+%26+simulations;Open-source+systems+engineering;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <!-- Line 1: Profile Stats -->
-<p align="left">
+<div align="left">
   <a href="https://github.com/divijg19">
     <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
   </a>
   <a href="https://github.com/divijg19?tab=followers">
     <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
   </a>
-</p>
+</div>
 
 <!-- Line 2: Language Versions -->
-<p align="left">
+<div align="left">
   
   <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?include_prereleases&style=flat-square&label=tip&labelColor=orange"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript&label=TypeScript">
 </a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-555?style=flat-square&logo=rust&logoColor=white"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/stable-000000?style=flat-square"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&label="></a>
-</p>
+</div>
 
 
 <details open>
@@ -64,7 +64,11 @@
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
 
-I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
+Backend & distributed systems engineer- with a focus on solutions that are not only functional but also elegant and impactful.
+
+Building realtime systems, AI platforms, and developer infrastructure using Go, Python & TypeScript, and architecting production-scale systems & execution engines.
+
+My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
 
 - ⚜️ **Seeking:** Backend, Distributed Systems, AI Systems, Infrastructure, or Platform Engineering roles
 
@@ -74,7 +78,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 - 🌱 **Ideology:** To design and build transformative systems, platforms, and technology brands from the ground up.
 
-## 🚀 What I Build
+## 🚀 Current Focus & What I Build:
 - Distributed backend systems
 - AI agent platforms
 - Realtime applications
@@ -88,15 +92,12 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 - Developer experience is a first-class feature
 - Local-first and user-owned software is the future
 
-## Active Tech Stacks in pursuit:
-**Career Stack:** Golang, Python(+Mojo), Typescript
+## Career Stack at a glance:
+**Golang, Python(+Mojo), Typescript**
 - `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, pgx, sqlc, Protobuf, gRPC, Temporal.io, Testcontainers, fx
+> Type-safe PostgreSQL access (pgx + sqlc), schema-first APIs with Protobuf/gRPC
 - `Python`: Pydantic, FastAPI, Polars, pgvector, PyTorch, LangGraph, LitServe, HTTPX, Ray, Mojo
 - `Typescript`: Next.js, React, Astro, SolidJS, Pixijs, shadcn/ui, Tanstack Query & Start, Zustand, zod
-
-**Personal Projects/Passion Stack:** Golang, Templ, TailwindCSS, HTMX, Dart, Jaspr, Flutter, Zig, WASM, Web3
-
-**Part-time Game-Dev/Systems Stack:** Rust (Bevy, Fyrox, macroquad, ggez), ECS, C++ (FFI), mlua (Luau), SolidJS, WebGPU
 
 **Databases:** PostgreSQL, DuckDB, MongoDB, Redis, SQLite, Firebase, Supabase
 
@@ -110,12 +111,12 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
 
 <details open>
 <summary><h3>💻 Languages & Frameworks</h3></summary>
-<h4>🎯 Career Core</h4>
+<h4>🎯 Career Core- Production Systems, Platforms & Infra</h4>
 
  <details open> 
  <summary><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></summary>
   
- <p>
+ <div>
   <!-- Chi -->
   <img src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <!-- WebSockets -->
@@ -132,7 +133,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
   <!-- fx -->
   <img src="https://img.shields.io/badge/Uber%20Fx-000000?style=for-the-badge&logo=uber&logoColor=white" />
-</p>
+</div>
 
 </details>
 
@@ -140,7 +141,7 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <summary><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" /></summary>
 
-<p>
+<div>
   <!-- PyTorch -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <!-- LangGraph -->
@@ -159,15 +160,15 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <!-- HTTPX -->
   <img src="https://img.shields.io/badge/HTTPX-009688?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+</div>
 
 </details>
 
-<details open>
+<details>
   <summary><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></summary>
   
-<p>
+<div>
   <!-- TanStack Query -->
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <!-- TanStack Start -->
@@ -176,13 +177,19 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
   <!-- Zod -->
   <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
+</div>
 
 </details>
 
-<details open>
-<summary><h4>⚡ Personal Projects & Passion Core</h4></summary>
-<p>
+<details>
+<summary><h4>⚡ Passions Core- Developer Experience & Tooling, Engines & Personal Projects</h4></summary>
+<div>
   <!-- Zig (Orange) -->
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
   <!-- Go (Mint/Teal variant) -->
@@ -201,17 +208,15 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Jaspr-EC407A?style=for-the-badge&logo=dart&logoColor=white" />
   <!-- Flutter (Dark Blue) -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <!-- WASM -->
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <!-- Web3 -->
   <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-</p>
+</div>
 
 </details>
 
-<details open>
-<summary><h4>👾 Indie Game-Dev & Systems Core</h4></summary>
-<p>
+<details>
+<summary><h4>👾 Systems Core- Indie Game-Dev, Runtimes, Simulations & Worlds</h4></summary>
+<div>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <!-- Bevy (Rust Engine) -->
   <img src="https://img.shields.io/badge/Bevy-232323?style=for-the-badge&logo=bevy&logoColor=white" />
@@ -220,25 +225,17 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Pixi.js-FF8C00?style=for-the-badge&logo=pixiv&logoColor=white" />
   <!-- WebGPU (Text Badge) -->
   <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><h4>🌐 Frontend Development</h4></summary>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <!-- WASM -->
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
-</p>
+</div>
 </details>
 
 </details>
 
-<h3>☁️ Cloud, DevOps, Infra & Deployment</h3>
-<p>
+<details>
+<summary><h3>☁️ Cloud, DevOps, Infra & Deployment</h3></summary>
+<div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <!-- Testcontainers -->
@@ -252,10 +249,10 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
   <!-- Coolify -->
   <img src="https://img.shields.io/badge/Coolify-FF6C37?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+</div>
 
 <h3>⚙️ Backend & Databases</h3>
-<p>
+<div>
   <!-- HuggingFace -->
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/DuckDB-FFF100?style=for-the-badge&logo=duckdb&logoColor=black" />
@@ -264,7 +261,8 @@ I'm a **B.Tech Computer Science student developer** with a relentless drive to e
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+</div>
+</details>
 
 </details>
 <br>
