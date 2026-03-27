@@ -7,7 +7,8 @@
   Hi, I'm Divij Ganjoo
 </h1>
 
-<h3 align="center">Backend & distributed systems engineer focused on realtime infra and AI-enabled Systems. I also design developer tools, and platforms, from UX to infrastructure.</h3>
+  <h3 align="center">Backend & distributed systems engineer focused on realtime infra and AI-enabled systems.</h3>
+  <h4 align="center">I also design developer tools, and platforms, from UX to infrastructure.</h4>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=435&lines=Backend+systems+%26+infrastructure;End-to-end+systems%3A+UX+to+infra;Developer+tools%2C+CLIs+%26+platforms;Runtimes+%26+execution+models;Systems-first+games+%26+simulations;Open-source+systems+engineering;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust" alt="Typing SVG" />
