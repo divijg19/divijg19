@@ -7,7 +7,7 @@
   Hi, I'm Divij Ganjoo
 </h1>
 
-  <h3 align="center">Backend & Distributed Systems engineer building interfaces, realtime and AI-enabled systems.</h3>
+  <h3 align="center">Backend & Distributed Systems Engineer building interfaces, realtime and AI-enabled systems.</h3>
   <h4 align="center">I also design developer tools, local-first platforms, and runtimes from UX to infrastructure.</h4>
 
 <div align="center">
