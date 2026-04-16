@@ -15,14 +15,29 @@
   </a>
 </div>
 
-<!-- Line 1: Profile Stats -->
+<!-- Line 1: Dev Setup -->
+
 <div align="left">
-  <a href="https://github.com/divijg19">
-    <img src="https://komarev.com/ghpvc/?username=divijg19&style=flat-square&color=blue" alt="Profile Views" />
+
+  <!-- OS / Environment -->
+  <a href="https://fedoraproject.org/workstation/">
+    <img src="https://img.shields.io/badge/Fedora-Workstation-294172?style=flat-square&logo=fedora&logoColor=white">
   </a>
-  <a href="https://github.com/divijg19?tab=followers">
-    <img src="https://img.shields.io/github/followers/divijg19?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <a href="https://nixos.org/">
+    <img src="https://img.shields.io/badge/NixOS-Flakes-5277C3?style=flat-square&logo=nixos&logoColor=white">
   </a>
+
+  <!-- Terminal Stack -->
+  <a href="https://ghostty.org/">
+    <img src="https://img.shields.io/badge/Ghostty-Terminal-000000?style=flat-square&logo=ghostty">
+  </a>
+  <a href="https://fishshell.com/">
+    <img src="https://img.shields.io/badge/fish-Shell-4EAA25?style=flat-square&logo=fishshell&logoColor=white">
+  </a>
+  <a href="https://zellij.dev/">
+    <img src="https://img.shields.io/badge/Zellij-Multiplexer-FFB86C?style=flat-square&">
+  </a>
+
 </div>
 
 <!-- Line 2: Language Versions -->
@@ -65,11 +80,17 @@
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
 
-Backend & distributed systems engineer- with a focus on solutions that are not only functional but also elegant and impactful.
+Backend & distributed systems engineer building realtime systems, AI platforms, and developer infrastructure using Go, Python & TypeScript- with a focus on solutions that are not only functional but also elegant and impactful.
 
-Building realtime systems, AI platforms, and developer infrastructure using Go, Python & TypeScript, and architecting production-scale systems & execution engines.
+My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity to architect production-scale **fully integrated solutions** 
 
-My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
+- **Career Stack at a glance:**
+  - `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, gRPC, Protobuf, sqlc, pgx, Temporal.io, fx, Testcontainers
+  - `Type-safe PostgreSQL access (pgx + sqlc), schema-first APIs with Protobuf/gRPC`
+  - `Python`: PyTorch, LangGraph, FastAPI, Litestar, Pydantic, Polars, Ray, pgvector, HTTPX, Mojo
+  - `Typescript`: Tanstack Query & Start, Zustand, zod, React, Next.js, Astro, SolidJS, Pixijs, shadcn/ui, TailwindCSS
+  - `Databases`: DuckDB, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase
+  - `Infra & Deployment`: HuggingFace, Inference APIs, Docker/Docker Compose, Github Workflows & Actions, Vercel, AWS, Fly.io, Render, Coolify
 
 - ⚜️ **Seeking:** Backend, Distributed Systems, AI Systems, Infrastructure, or Platform Engineering roles
 
@@ -79,30 +100,19 @@ My journey in tech is guided by two core principles: wanting a deep understandin
 
 - 🌱 **Ideology:** To design and build transformative systems, platforms, and technology brands from the ground up.
 
-## 🚀 Current Focus & What I Build:
-- Distributed backend systems
-- AI agent platforms
-- Realtime applications
-- Developer tools and infrastructure
-- Experimental systems and game technologies
+- 🚀 **Current Focus & What I Build:**
+  - Distributed backend systems
+  - AI agent platforms
+  - Realtime applications
+  - Developer tools and infrastructure
+  - Experimental systems and game technologies
 
-## 🧭 Engineering Philosophy
-- Systems over scripts
-- Correctness before cleverness
-- Explicit architecture beats hidden magic
-- Developer experience is a first-class feature
-- Local-first and user-owned software is the future
-
-## Career Stack at a glance:
-**Golang, Python(+Mojo), Typescript**
-- `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, gRPC, Protobuf, sqlc, pgx, Temporal.io, fx, Testcontainers
-- `Type-safe PostgreSQL access (pgx + sqlc), schema-first APIs with Protobuf/gRPC`
-- `Python`: PyTorch, LangGraph, FastAPI, Litestar, Pydantic, Polars, Ray, pgvector, HTTPX, Mojo
-- `Typescript`: Tanstack Query & Start, Zustand, zod, React, Next.js, Astro, SolidJS, Pixijs, shadcn/ui, TailwindCSS
-
-**Databases:** DuckDB, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase
-
-**Infra & Deployment:** HuggingFace, Inference APIs, Docker/Docker Compose, Github Workflows & Actions, Vercel, AWS, Fly.io, Render, Coolify
+- 🧭 **Engineering Philosophy:**
+  - Systems over scripts
+  - Correctness before cleverness
+  - Explicit architecture beats hidden magic
+  - Developer experience is a first-class feature
+  - Local-first and user-owned software is the future
 
 </details>
 <br>
