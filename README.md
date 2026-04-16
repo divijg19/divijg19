@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
   <br>
-  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
+  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=divijg19&layout=compact&hide_border=true&theme=watchdog" width="355" alt="Top Languages" />
   <img src="https://zinnia-rho.vercel.app/api/stats?username=divijg19&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
   <br>
   <img src="https://zinnia-rho.vercel.app/api/streak?user=divijg19&hide_border=true&theme=watchdog" alt="Github Streak" />
