@@ -7,9 +7,9 @@
   Hi, I'm Divij Ganjoo
 </h1>
 
-  <h3 align="center">Backend & Distributed Systems Engineer building interfaces, realtime and AI-enabled systems.</h3>
-  <h4 align="center">I also design developer tools, local-first platforms, and runtimes from UX to infrastructure.</h4>
-
+  <h3 align="center">Backend & Systems Engineer building realtime, AI-enabled systems & developer infrastructure.</h3>
+  <h4 align="center">Developer tools, local-first platforms, and runtimes- spanning UX to infrastructure.</h4>
+  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=435&lines=Backend+systems+%26+infrastructure;End-to-end+systems%3A+UX+to+infra;Developer+tools%2C+CLIs+%26+platforms;Runtimes+%26+execution+models;Systems-first+games+%26+simulations;Open-source+systems+engineering;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust" alt="Typing SVG" />
   </a>
@@ -80,7 +80,9 @@
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
 
-Backend & distributed systems engineer building realtime systems, AI platforms, and developer infrastructure using Go, Python & TypeScript- with a focus on solutions that are not only functional but also elegant and impactful.
+Backend & distributed systems engineer building realtime architectures, AI platforms, and developer infrastructure.
+
+I design systems end-to-end - from execution models and APIs to developer experience and deployment.
 
 My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity to architect production-scale **fully integrated solutions** 
 
