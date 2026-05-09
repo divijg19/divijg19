@@ -43,13 +43,13 @@
 <!-- Line 2: Language Versions -->
 <div align="left">
   
-  <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?include_prereleases&style=flat-square&label=tip&labelColor=orange"></a>
+  <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json" alt="Go Version"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
-  <a href="https://www.modular.com/max/mojo" title=" 🔥Mojo Preview"><img src="https://img.shields.io/badge/🔥%20Mojo-preview-FF4A00?style=flat-square&logo=code&logoColor=white" alt="🔥Mojo Preview"/></a>
+  <a href="https://docs.modular.com/mojo/manual/"><img src="https://img.shields.io/badge/🔥%20Mojo-1.0%20beta-FF4A00?style=flat-square&logo=code&logoColor=white" alt="🔥 Mojo 1.0 beta"></a><a href="https://github.com/modular/modular/releases"><img src="https://img.shields.io/github/v/release/modular/modular?style=flat-square&label=" alt="Latest Modular release"></a>
   <a href="https://www.npmjs.com/package/typescript">
   <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript&label=TypeScript">
 </a>
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-555?style=flat-square&logo=rust&logoColor=white"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/stable-000000?style=flat-square"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&label="></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-555?style=flat-square&logo=rust&logoColor=white"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/stable-000000?style=flat-square"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&label="></a>
 </div>
 
 
@@ -102,9 +102,9 @@ My journey in tech is guided by two core principles: wanting a deep understandin
 
 - 🌱 **Ideology:** To design and build transformative systems, platforms, and technology brands from the ground up.
 
-- 🚀 **Current Focus & What I Build:**
+- 🚀 **Current Focus & What I'm Building:**
   - Distributed backend systems
-  - AI agent platforms
+  - Agentic AI runtimes and loops
   - Realtime applications
   - Developer tools and infrastructure
   - Experimental systems and game technologies
