@@ -1,19 +1,7 @@
 <div align="center">
   <img height=230 width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Github_Banner_divijg19.png" alt="Banner" />
 </div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  Hi, I'm Divij Ganjoo
-</h1>
-
-  <h3 align="center">Backend & Systems Engineer building realtime, AI-enabled systems & developer infrastructure.</h3>
-  <h4 align="center">Developer tools, local-first platforms, and runtimes- spanning UX to infrastructure.</h4>
-  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=435&lines=Backend+systems+%26+infrastructure;End-to-end+systems%3A+UX+to+infra;Developer+tools%2C+CLIs+%26+platforms;Runtimes+%26+execution+models;Systems-first+games+%26+simulations;Open-source+systems+engineering;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust" alt="Typing SVG" />
-  </a>
-</div>
+  <h4 align="center">Backend & Systems Engineer building distributed systems, AI platforms, developer tooling & local-first software</h4>
 
 <!-- Line 1: Dev Setup -->
 
@@ -27,16 +15,26 @@
     <img src="https://img.shields.io/badge/NixOS-Flakes-5277C3?style=flat-square&logo=nixos&logoColor=white">
   </a>
 
-  <!-- Terminal Stack -->
-  <a href="https://ghostty.org/">
-    <img src="https://img.shields.io/badge/Ghostty-Terminal-000000?style=flat-square&logo=ghostty">
-  </a>
-  <a href="https://fishshell.com/">
-    <img src="https://img.shields.io/badge/fish-Shell-4EAA25?style=flat-square&logo=fishshell&logoColor=white">
-  </a>
-  <a href="https://zellij.dev/">
-    <img src="https://img.shields.io/badge/Zellij-Multiplexer-FFB86C?style=flat-square&">
-  </a>
+  
+  <!-- Ghostty -->
+<a href="https://ghostty.org/">
+  <img src="https://img.shields.io/badge/Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white">
+</a>
+
+<!-- fish -->
+<a href="https://fishshell.com/">
+  <img src="https://img.shields.io/badge/fish-4EAA25?style=flat-square&logo=fishshell&logoColor=white"><img src="https://img.shields.io/github/v/release/fish-shell/fish-shell?style=flat-square&label=">
+</a>
+
+<!-- Neovim -->
+<a href="https://neovim.io/">
+  <img src="https://img.shields.io/badge/Neovim-24283B?style=flat-square&logo=neovim&logoColor=73DACA"><img src="https://img.shields.io/github/v/release/neovim/neovim?style=flat-square&label=">
+</a>
+
+<!-- tmux -->
+<a href="https://github.com/tmux/tmux">
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"><img src="https://img.shields.io/github/v/tag/tmux/tmux?style=flat-square&label=">
+</a>
 
 </div>
 
@@ -80,51 +78,51 @@
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
 
-Backend & distributed systems engineer building realtime architectures, AI platforms, and developer infrastructure.
+<table>
+<tr>
+<td valign="top" width="70%">
 
-I design systems end-to-end - from execution models and APIs to developer experience and deployment.
+Backend & Systems Engineer building distributed systems, AI platforms, developer tooling, infrastructure & local-first software.
 
-My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity to architect production-scale **fully integrated solutions** 
+I enjoy designing software from first principles—architecting execution models, APIs, runtimes, and developer experience as parts of a cohesive system rather than isolated components.
 
-- **Career Stack at a glance:**
-  - `Golang`: Chi, net/http, Coder(nhooyr)/Websocket, gRPC, Protobuf, sqlc, pgx, Temporal.io, fx, Testcontainers
-  - `Type-safe PostgreSQL access (pgx + sqlc), schema-first APIs with Protobuf/gRPC`
-  - `Python`: PyTorch, LangGraph, FastAPI, Litestar, Pydantic, Polars, Ray, pgvector, HTTPX, Mojo
-  - `Typescript`: Tanstack Query & Start, Zustand, zod, React, Next.js, Astro, SolidJS, Pixijs, shadcn/ui, TailwindCSS
-  - `Databases`: DuckDB, PostgreSQL, MongoDB, Redis, SQLite, Firebase, Supabase
-  - `Infra & Deployment`: HuggingFace, Inference APIs, Docker/Docker Compose, Github Workflows & Actions, Vercel, AWS, Fly.io, Render, Coolify
+I strive to understand **systems & runtimes** deeply and architect crafted, cohesive, production-scale software spanning **UX to infrastructure**.
 
 - ⚜️ **Seeking:** Backend, Distributed Systems, AI Systems, Infrastructure, or Platform Engineering roles
 
-- 🔭 **Career Focus:** Distributed systems, microservices, realtime architectures, and AI agent platforms- building cloud-native systems with Python, Go, and Mojo across DevOps and MLOps workflows.
+- 🔭 **Career Focus:** Distributed systems, backend platforms, developer infrastructure, realtime architectures & applied AI.
+</td>
 
-- 🎉 **Passions:** Deep diving into systems-level technologies like Go, Rust, Zig, and Mojo while exploring emerging frontiers such as gRPC, WebGPU, and WASM. I enjoy building full-stack and systems-driven personal projects using Golang, HTMX, Templ, Charmbracelet, Dart, Rust, Zig, and Lua.
+<td valign="top" align="right" width="30%">
 
-- 🌱 **Ideology:** To design and build transformative systems, platforms, and technology brands from the ground up.
+<img src="https://gitfut.com/divijg19.png" width="260" alt="GitFut card" />
 
-- 🚀 **Current Focus & What I'm Building:**
-  - Distributed backend systems
-  - Agentic AI runtimes and loops
-  - Realtime applications
-  - Developer tools and infrastructure
-  - Experimental systems and game technologies
+</td>
+</tr>
+</table>
+
+- 🎉 **Passions:** Systems programming, runtimes, graphics technologies & developer tooling. 
+
+  - Outside of work, I build systems-driven personal projects in Go, Zig, Rust, Lua, modern web platforms & terminal user interfaces.
 
 - 🧭 **Engineering Philosophy:**
+- Build explicit, correct & maintainable software that scales with both users & developers.
   - Systems over scripts
   - Correctness before cleverness
   - Explicit architecture beats hidden magic
-  - Developer experience is a first-class feature
-  - Local-first and user-owned software is the future
+  - Developer & User experience is a first-class feature
+  - Prefer local-first, user-owned software.
+
 
 </details>
 <br>
 
 <details open>
-<summary><h2> 🧰 Tech/Engineering Stack</h2></summary>
+<summary><h2> 🧰 Engineering Stack</h2></summary>
 
 <details open>
 <summary><h3>💻 Languages & Frameworks</h3></summary>
-<h4>🎯 Career Core- Production Systems, Platforms & Infra</h4>
+<h4>🎯 Career & Production</h4>
 
  <details open> 
  <summary><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></summary>
@@ -161,14 +159,10 @@ My journey in tech is guided by two core principles: wanting a deep understandin
   <img src="https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=langgraph&logoColor=white" />
   <!-- FastAPI -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <!-- LiteStar -->
-  <img src="https://img.shields.io/badge/Litestar-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
   <!-- Pydantic -->
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white" />
   <!-- Polars -->
   <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Ray -->
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
   <!-- pgvector -->
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <!-- HTTPX -->
@@ -194,17 +188,21 @@ My journey in tech is guided by two core principles: wanting a deep understandin
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
 </div>
 
 </details>
 
 <details>
-<summary><h4>⚡ Passions Core- Developer Experience & Tooling, Engines & Personal Projects</h4></summary>
+<summary><h4>⚡ Passions</h4></summary>
+<summary><h5>⚙️ Developer Experience & Tooling, Engines & Personal Projects</h5></summary>
 <div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <!-- Zig (Orange) -->
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
+</div>
+<div>
   <!-- Go (Mint/Teal variant) -->
   <img src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white" />
   <!-- Templ (Yellow) -->
@@ -215,32 +213,34 @@ My journey in tech is guided by two core principles: wanting a deep understandin
   <img src="https://img.shields.io/badge/Bubble_Tea-FF69B4?style=for-the-badge&logo=go&logoColor=white" />
   <!-- Lip Gloss -->
   <img src="https://img.shields.io/badge/Lip_Gloss-7D56F4?style=for-the-badge&logo=go&logoColor=white" />
+</div>
+<div>
   <!-- Dart (Blue) -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <!-- Jaspr (Pink/Purple - Custom) -->
   <img src="https://img.shields.io/badge/Jaspr-EC407A?style=for-the-badge&logo=dart&logoColor=white" />
   <!-- Flutter (Dark Blue) -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <!-- Web3 -->
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </div>
 
-</details>
-
-<details>
-<summary><h4>👾 Systems Core- Indie Game-Dev, Runtimes, Simulations & Worlds</h4></summary>
+<summary><h5>👾 Indie Game-Dev, Runtimes, Simulations, Worlds & Systems</h5></summary>
 <div>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <!-- Bevy (Rust Engine) -->
   <img src="https://img.shields.io/badge/Bevy-232323?style=for-the-badge&logo=bevy&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/Pixi.js-FF8C00?style=for-the-badge&logo=pixiv&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
-  <!-- WebGPU (Text Badge) -->
-  <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</div>
+<div>
   <!-- WASM -->
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <!-- WebGPU -->
+  <img src="https://img.shields.io/badge/WebGPU-009688?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <!-- Web3 -->
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </div>
 </details>
 
@@ -288,9 +288,9 @@ My journey in tech is guided by two core principles: wanting a deep understandin
 <summary><h2> 🧠 Aspirations & Passions</h2></summary>
 
 -   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
--   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined, and impact-driven.
--   ✍️ **Creative Voice:** Writer and poet with one publication and several works in progress.
--   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent and collaborative effort.
+-   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined & impact-driven.
+-   ✍️ **Creative Voice:** Writer & Poet with one publication and several works in progress.
+-   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent & collaborative effort.
 </details>
 <br>
 
