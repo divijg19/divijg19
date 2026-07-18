@@ -78,9 +78,11 @@
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
 
+<!--
 <table>
 <tr>
 <td valign="top" width="70%">
+-->
 
 Backend & Systems Engineer building distributed systems, AI platforms, developer tooling, infrastructure & local-first software.
 
@@ -91,15 +93,17 @@ I strive to understand **systems & runtimes** deeply and architect crafted, cohe
 - ⚜️ **Seeking:** Backend, Distributed Systems, AI Systems, Infrastructure, or Platform Engineering roles
 
 - 🔭 **Career Focus:** Distributed systems, backend platforms, developer infrastructure, realtime architectures & applied AI.
+<!--
 </td>
 
 <td valign="top" align="right" width="30%">
 
-<img src="https://gitfut.com/divijg19.png" width="260" alt="GitFut card" />
+<img src="https://gitfut.com/divijg19.png" alt="GitFut card" />
 
 </td>
 </tr>
 </table>
+-->
 
 - 🎉 **Passions:** Systems programming, runtimes, graphics technologies & developer tooling. 
 
