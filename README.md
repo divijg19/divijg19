@@ -43,7 +43,7 @@
   
   <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/Go-555?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"></a><a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=&query=$[0].version&url=https://go.dev/dl/?mode=json" alt="Go Version"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-≥3.11-3776AB?style=flat-square&logo=python"></a>
-  <a href="https://docs.modular.com/mojo/manual/"><img src="https://img.shields.io/badge/🔥%20Mojo-1.0%20beta-FF4A00?style=flat-square&logo=code&logoColor=white" alt="🔥 Mojo 1.0 beta"></a><a href="https://github.com/modular/modular/releases"><img src="https://img.shields.io/github/v/release/modular/modular?style=flat-square&label=" alt="Latest Modular release"></a>
+  [![🔥 Mojo](https://img.shields.io/github/v/tag/modular/modular?filter=mojo%2F*&style=flat-square&label=🔥Mojo&color=FF4A00&logo=mojo&logoColor=white)](https://docs.modular.com/mojo/manual/)<a href="https://github.com/modular/modular/releases"><img src="https://img.shields.io/github/v/tag/modular/modular?filter=max%2F%2A&style=flat-square&label=MAX&color=5B5BD6&logo=github&logoColor=white" alt="MAX"></a>
   <a href="https://www.npmjs.com/package/typescript">
   <img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript&label=TypeScript">
 </a>
