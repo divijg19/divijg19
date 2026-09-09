@@ -206,8 +206,6 @@ I enjoy designing software from first principles—architecting execution models
 </div>
 </details>
 
-</details>
-
 <details>
 <summary><h4>☁️ Cloud, DevOps, Infra & Deployment</h4></summary>
 <div>
