@@ -65,7 +65,7 @@
   <img src="https://zinnia-rho.vercel.app/api/streak?user=divijg19&hide_border=true&theme=watchdog" alt="Github Streak" />
 </div>
 
-### 📊 LeetCode Stats
+#### 📊 LeetCode Stats
 
 <div align="center">
   <img src="https://zinnia-rho.vercel.app/api/leetcode?username=divijg19&theme=watchdog" alt="LeetCode Stats" style="width:50;" />
