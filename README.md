@@ -1,5 +1,6 @@
-<!-- Line 1: Dev Setup -->
+<h4 align="center">Backend & Systems Engineer building distributed systems, AI platforms, developer tooling, infrastructure & local-first software.</h4>
 
+<!-- Line 1: Dev Setup -->
 <div align="left">
 
   <!-- OS / Environment -->
@@ -63,10 +64,8 @@
 ---
 
 <details open>
-<summary><h3> 🧠 Who I Am</h3></summary>
+<summary><h3> 🧠 What I do</h3></summary>
 <br>
-
-Backend & Systems Engineer building distributed systems, AI platforms, developer tooling, infrastructure & local-first software.
 
 I enjoy designing software from first principles—architecting execution models, APIs, runtimes, and developer experience as parts of a cohesive system rather than isolated components. I strive to understand systems & runtimes deeply, turning that understanding into crafted, cohesive software spanning **UX to infrastructure**.
 
