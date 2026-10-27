@@ -1,8 +1,3 @@
-<div align="center">
-  <img height=230 width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Github_Banner_divijg19.png" alt="Banner" />
-</div>
-  <h4 align="center">Backend & Systems Engineer building distributed systems, AI platforms, developer tooling & local-first software</h4>
-
 <!-- Line 1: Dev Setup -->
 
 <div align="left">
@@ -49,7 +44,6 @@
 </a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-555?style=flat-square&logo=rust&logoColor=white"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/stable-000000?style=flat-square"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&label="></a>
 </div>
-
 
 <details open>
 <summary><h3> 🥂 Visual Insights</h3></summary>
@@ -243,17 +237,7 @@ I enjoy designing software from first principles—architecting execution models
 <br>
 
 <details open>
-<summary><h3> 🧠 Aspirations & Passions</h3></summary>
-
--   ♟️ **Strategic Thinker:** Former competitive chess player; I see strategy in everything.
--   🥊 **Disciplined Driver:** Kickboxing enthusiast- focused, disciplined & impact-driven.
--   ✍️ **Creative Voice:** Writer & Poet with one publication and several works in progress.
--   💬 **Community Builder:** I believe great systems are the vector sum of rightly placed talent & collaborative effort.
-</details>
-<br>
-
-<details open>
-<summary><h3> 💬 Connect with me!</h3></summary>
+<summary><h3> 💬 Connect with me</h3></summary>
 
 <table>
   <tr>
@@ -279,7 +263,7 @@ I enjoy designing software from first principles—architecting execution models
   <tr>
     <td valign="middle">
       <a href="https://divijganjoo.me" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=gnometerminal&logoColor=white" />
       </a>
     </td>
     <td valign="middle">
