@@ -1,7 +1,10 @@
 <div align="center">
   <img height=230 width="100%" src="https://raw.githubusercontent.com/divijg19/divijg19/main/Github_Banner_divijg19.png" alt="Banner" />
 </div>
-  <h4 align="center">Backend & Systems Engineer building distributed systems, AI platforms, developer tooling & local-first software</h4>
+
+<details open>
+<summary><h3> 🥂 Intrigue</h3></summary>
+<h4 align="center">Backend & Systems Engineer building distributed systems, AI platforms, developer tooling & local-first software</h4>
 
 <!-- Line 1: Dev Setup -->
 <div align="left">
@@ -49,9 +52,6 @@
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-555?style=flat-square&logo=rust&logoColor=white"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/stable-000000?style=flat-square"></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&label="></a>
 </div>
 
-<details open>
-<summary><h3> 🥂 Github Widgets</h3></summary>
-
 <div align="center">
   <!--
   <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
@@ -77,7 +77,7 @@
 ---
 
 <details open>
-<summary><h3> 🧠 What I do</h3></summary>
+<summary><h3> ⚜️ Who I am</h3></summary>
 <br>
 
 I enjoy designing software from first principles—architecting execution models, APIs, runtimes, and developer experience as parts of a cohesive system rather than isolated components. I strive to understand systems & runtimes deeply, turning that understanding into crafted, cohesive software spanning **UX to infrastructure**.
