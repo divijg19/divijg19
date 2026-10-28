@@ -1,5 +1,3 @@
-<h4 align="center">Backend & Systems Engineer building distributed systems, AI platforms, developer tooling, infrastructure & local-first software.</h4>
-
 <!-- Line 1: Dev Setup -->
 <div align="left">
 
@@ -47,9 +45,7 @@
 </div>
 
 <details open>
-<summary><h3> 🥂 Visual Insights</h3></summary>
-  
-#### 🐙 GitHub Widgets
+<summary><h3> 🥂 Github Widgets</h3></summary>
 
 <div align="center">
   <img src="https://zinnia-rho.vercel.app/api/trophy?username=divijg19&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
